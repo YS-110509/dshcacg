@@ -14,7 +14,7 @@ export const zh_CN: Translation = {
 	[Key.navAbout]: "关于",
 	[Key.navOthers]: "其他",
 
-	[Key.tags]: "标签",
+	[Key.tags]: "话题",
 	[Key.categories]: "分类",
 	[Key.recentPosts]: "最新文章",
 	[Key.postList]: "文章列表",
@@ -54,7 +54,7 @@ export const zh_CN: Translation = {
 
 	[Key.more]: "更多",
 
-	[Key.author]: "作者",
+	[Key.author]: "编辑",
 	[Key.publishedAt]: "发布于",
 	[Key.license]: "许可协议",
 	[Key.anime]: "追番",
