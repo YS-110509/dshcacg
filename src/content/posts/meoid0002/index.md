@@ -2,7 +2,7 @@
 title: 入站必看
 published: 2026-05-01
 pinned: true
-description: 介绍本站规则、用途、现任管理。
+description: 介绍本站规则、用途、现任管理，大上海城基础游玩攻略。
 tags: [分享, 交流]
 category: 网站公告
 licenseName: "CC BY-NC-ND"
