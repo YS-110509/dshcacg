@@ -1,7 +1,7 @@
 ---
 title: 欢迎来到大上海萌资讯
 published: 2026-05-01
-pinned: true
+pinned: false
 description: 大上海萌资讯的第一篇文章，向您正式介绍我们。
 tags: [分享, 交流]
 category: 网站公告
