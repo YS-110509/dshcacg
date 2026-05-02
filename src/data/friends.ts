@@ -14,11 +14,11 @@ export interface FriendItem {
 export const friendsData: FriendItem[] = [
 	{
 		id: 1,
-		title: "大上海萌资讯创作服务",
-		imgurl: "https://dshcacg.fun/assets/home/home.webp",
-		desc: "向【大上海萌资讯】投稿文章、发表视频、违规举报、申请友链等。",
-		siteurl: "https://pd.qq.com/s/5r7k9asff",
-		tags: ["友链申请", "发表创作"],
+		title: "GoodsMap·谷店地图",
+		imgurl: "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kroeo3vj2605nlqpqog8og6he7a5io?imageView2/2/w/540/format/webp|imageMogr2/strip2",
+		desc: "收录了全国各个城市的谷子店详情。",
+		siteurl: "https://www.xiaohongshu.com/search_result?keyword=820066673",
+		tags: ["谷子店", "攻略"],
 	},
 ];
 
