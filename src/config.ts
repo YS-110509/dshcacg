@@ -380,7 +380,7 @@ export const shareConfig: ShareConfig = {
 export const announcementConfig: AnnouncementConfig = {
 	title: "近期活动&漫展", // 公告标题，填空使用i18n字符串Key.announcement
 	content:
-		"郑州大上海城【青岚漫韵次元游春会】于5/1-5/3举行；近期的漫展有【郑州·YCC动漫嘉年华】于4/4举行，【第十二届梦乡动漫展】于5/1-5/4举行，【第三届郑州星幻动漫节】于5/23举行，【郑州·新世界&逐鹿星河国漫展】于5/30-5/31举行~", // 公告内容
+		"郑州大上海城【青岚漫韵次元游春会】已结束~；近期的漫展有【第三届郑州星幻动漫节】于5/23举行，【郑州·新世界&逐鹿星河国漫展】于5/30-5/31举行~", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
