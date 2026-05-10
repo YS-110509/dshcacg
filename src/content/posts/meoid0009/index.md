@@ -4,7 +4,7 @@ published: 2026-05-09
 pinned: false
 description: 秋子谷子店将于2026年5月11日正式停止营业，明日起全店商品五折。
 tags: [闭店, 秋子谷子店]
-category: 官方公告
+category: 店铺公告
 licenseName: "CC BY-NC-ND"
 author: 秋子谷子店
 sourceLink: "https://www.dshcacg.fun/meoid0009/"
