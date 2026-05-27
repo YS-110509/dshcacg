@@ -11,7 +11,7 @@ sourceLink: "https://www.dshcacg.fun/meoid0012/"
 draft: false
 date: 2026-05-27
 pubDate: 2026-05-27
-permalink: "meoid0001"
+permalink: "meoid0012"
 ---
 
 一群因不明原因，群聊已被停用正在申诉中，我们正在查证。
