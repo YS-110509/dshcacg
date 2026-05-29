@@ -258,13 +258,7 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:link",
 			children: [
 				{
-					name: "1群",
-					url: "https://qm.qq.com/q/1hGfayGBBY",
-					external: true,
-					icon: "fa7-brands:qq",
-				},
-				{
-					name: "2群",
+					name: "主群",
 					url: "https://qm.qq.com/q/YT5LZBUfS0",
 					external: true,
 					icon: "fa7-brands:qq",
@@ -302,7 +296,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "加入我们",
-			url: "https://qm.qq.com/q/1hGfayGBBY",
+			url: "https://qm.qq.com/q/YT5LZBUfS0",
 			icon: "fa7-brands:qq",
 		},
 	],
@@ -380,7 +374,7 @@ export const shareConfig: ShareConfig = {
 export const announcementConfig: AnnouncementConfig = {
 	title: "近期活动&漫展", // 公告标题，填空使用i18n字符串Key.announcement
 	content:
-		"郑州大上海城【青岚漫韵次元游春会】已结束~；近期的漫展有【第三届郑州星幻动漫节】于5/23举行，【郑州·新世界&逐鹿星河国漫展】于5/30-5/31举行~", // 公告内容
+		"郑州大上海城【六一守护童年 · 次元惊喜】于5/30-5/31举行；近期的漫展有【郑州·新世界&逐鹿星河国漫展】于5/30-5/31举行~", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
