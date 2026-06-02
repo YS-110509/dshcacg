@@ -374,7 +374,7 @@ export const shareConfig: ShareConfig = {
 export const announcementConfig: AnnouncementConfig = {
 	title: "近期活动&漫展", // 公告标题，填空使用i18n字符串Key.announcement
 	content:
-		"郑州大上海城【六一守护童年 · 次元惊喜】于5/30-5/31举行；近期的漫展有【郑州·新世界&逐鹿星河国漫展】于5/30-5/31举行~", // 公告内容
+		"近期的漫展有【郑州·布要命了·布袋戏同人only4.0】于6/13-6/14举行；【郑州·黑蜻蜓动漫＆游戏博览会】于6/29-6/21举行；【郑州·第7届ACC动漫展】于7/11-7/13举行；【郑州·繁星特摄同人Only展 & SH04·许峰见面会】于7/25举行~", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
