@@ -1,7 +1,7 @@
 ---
 title: 愿你执笔如执剑，此战终将荣耀加冕
 published: 2026-06-05
-pinned: false
+pinned: true
 description: 明天高考试坐，后天正式开考。郑州大上海城二次元交流群为所有高考生送上祝福——愿你们合上笔盖的那一刻，有着战士收刀入鞘般的骄傲。
 tags: [高考加油, 祝福]
 category: 网站公告
