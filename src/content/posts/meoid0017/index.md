@@ -1,7 +1,7 @@
 ---
 title: 郑州大上海城｜六一守护童年·次元惊喜上线
 published: 2026-05-28
-pinned: true
+pinned: false
 description: 免费抽奖手办周边、次元中医领驱蚊包、一键生成心动角色……5月30日-31日，带上童心，来大上海城过六一！
 tags: [六一, 抽奖, 次元中医]
 category: 官方公告
