@@ -372,9 +372,9 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "近期活动&漫展", // 公告标题，填空使用i18n字符串Key.announcement
+	title: "当前版本v1.2", // 公告标题，填空使用i18n字符串Key.announcement
 	content:
-		"近期的漫展有【郑州·布要命了·布袋戏同人only4.0】于6/13-6/14举行；【郑州·黑蜻蜓动漫＆游戏博览会】于6/29-6/21举行；【郑州·第7届ACC动漫展】于7/11-7/13举行；【郑州·繁星特摄同人Only展 & SH04·许峰见面会】于7/25举行~", // 公告内容
+		"更新内容：1.将近期活动与漫展移至【关于我们】；2.大上海萌资讯App(PWA)已开放安装，可前往【关于我们】中查看。", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
