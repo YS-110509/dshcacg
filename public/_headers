@@ -28,3 +28,6 @@
 
 *.html
   Cache-Control: public, max-age=3600, must-revalidate
+
+/install.mobileconfig
+  Content-Type: application/x-apple-aspen-config
