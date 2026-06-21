@@ -105,19 +105,21 @@
 ### 🍎 iPhone / iPad 用户
 点击下方按钮下载描述文件，安装后桌面就会出现专属图标。
 
-<a href="/install.mobileconfig" style="display:inline-block; background:#1A9CD4; color:#fff; padding:12px 28px; border-radius:30px; text-decoration:none; font-weight:bold; margin:10px 0;">📲 一键安装 iOS 全屏应用</a>
+<a href="/install.mobileconfig" style="display:inline-block; background:#1A9CD4; color:#fff; padding:12px 28px; border-radius:30px; text-decoration:none; font-weight:bold; margin:10px 0;">📲 安装iOS描述文件(支持 iOS11.3 及以上)</a>
 
-> **安装步骤**：点击“允许”下载 → 打开手机“设置” → 顶部“已下载的描述文件” → 点击“安装” → 输入锁屏密码 → 完成！退回桌面就能看到图标啦 ✨
+> **安装步骤**：点击“下载” → 打开手机“设置” → 顶部“已下载的描述文件” → 点击“安装” → 输入锁屏密码 → 完成！退回桌面就能看到图标啦 ✨
 
 ---
 
-### 🤖 安卓手机 / 电脑浏览器（Chrome / Edge）
-直接使用浏览器自带的 **“添加到主屏幕”** 功能：
+### 🤖 安卓系统手机 用户
 
-- **安卓 Chrome**：点击地址栏右侧的 **⋮ 菜单** → 选择 **“添加到主屏幕”** → 点击“添加”即可。
-- **电脑 Chrome / Edge**：地址栏右侧会显示 **⊕ 安装图标**，点击后弹出独立窗口。
+正在制作中ing...
 
-> 安装后，本站将以 **全屏模式** 运行，与普通网页浏览体验完全不同哦～
+---
+
+### 🤖 鸿蒙NEXT系统手机 用户
+
+正在制作中ing...
 
 ---
 
