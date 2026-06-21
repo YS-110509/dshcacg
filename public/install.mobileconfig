@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>大上海萌资讯</string>
+            <key>PayloadDescription</key>
+            <string>添加到主屏幕</string>
+            <key>PayloadDisplayName</key>
+            <string>大上海萌资讯</string>
+            <key>PayloadIdentifier</key>
+            <string>ink.roka.dshcacg.webclip</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip</string>
+            <key>PayloadUUID</key>
+            <string>f368ece1-aa9b-4d86-9ec8-bccbb9a9f4f4</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>URL</key>
+            <string>https://dshcacg.roka.ink</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>大上海萌资讯</string>
+    <key>PayloadIdentifier</key>
+    <string>ink.roka.dshcacg</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>29f9ec0e-0992-41be-bfa9-24a39d708df4</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
