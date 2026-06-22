@@ -98,7 +98,7 @@
 
 ---
 
-## 📲 将“大上海萌资讯”添加到手机桌面
+## 📲 将“大上海萌资讯”添加到桌面
 
 想获得 **原生 App 一样的沉浸体验**？只需两步，即可将本站添加到主屏幕，**快速打开、随时阅览**！
 
@@ -135,11 +135,13 @@
 
 ### Chrome/Edge内核浏览器 用户
 
+#### 一键安装（适用于移动端）
+
 <div style="text-align: center; margin: 16px 0;">
   <a id="installAppBtn" href="javascript:void(0)" style="display: inline-block; padding: 14px 32px; background: linear-gradient(135deg, #1A9CD4, #0f7bb0); color: #fff; border-radius: 50px; font-size: 18px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 20px rgba(26, 156, 212, 0.5); transition: transform 0.2s;">
-    📲 安装 萌资讯App
+    安装 萌资讯App
   </a>
-  <p style="font-size: 14px; color: #888; margin-top: 8px;">适用于 Android / 鸿蒙 / 桌面浏览器</p>
+  <p style="font-size: 14px; color: #888; margin-top: 8px;">适用于 Android / HarmonyOS</p>
 </div>
 
 <script>
@@ -206,7 +208,7 @@
 
 ---
 
-#### 📖 手动安装指引（适用于所有设备）
+#### 手动安装指引（适用于所有设备）
 
 如果上方按钮无法正常使用，你也可以按以下步骤手动安装：
 
