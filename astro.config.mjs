@@ -16,8 +16,6 @@ import rehypeSlug from "rehype-slug";
 import remarkDirective from "remark-directive";
 import remarkMath from "remark-math";
 import remarkSectionize from "remark-sectionize";
-
-// 🆕 导入 PWA 插件
 import pwa from "@vite-pwa/astro";
 
 import { siteConfig } from "./src/config.ts";
@@ -33,14 +31,11 @@ import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
 import { remarkFixGithubAdmonitions } from "./src/plugins/remark-fix-github-admonitions.js";
 import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 
-// https://astro.build/config
 export default defineConfig({
 	site: siteConfig.siteURL,
 	base: "/",
 	trailingSlash: "always",
-
 	output: "static",
-
 	integrations: [
 		umami({
 			shareUrl: false,
@@ -118,10 +113,8 @@ export default defineConfig({
 			preprocess: vitePreprocess(),
 		}),
 		sitemap(),
-
-		// 🆕 添加 PWA 插件配置
 		pwa({
-			manifest: false, // 使用你已有的手写 manifest.json
+			manifest: false,
 			workbox: {
 				globPatterns: ["**/*.{js,css,html,png,svg,ico,webp,woff2}"],
 				runtimeCaching: [
@@ -140,7 +133,235 @@ export default defineConfig({
 			},
 			includeAssets: ["favicon.ico", "icon-192.png", "icon-512.png"],
 			devOptions: {
-				enabled: true, // 开发环境下启用，方便调试
+				enabled: true,
+				type: "module",
+			},
+		}),
+	],
+	markdown: {
+		remarkPlugins: [
+			remarkMath,
+			remarkContent,
+			remarkFixGithubAdmonitions,
+			remarkDirective,
+			remarkSectionize,
+			parseDirectiveNode,
+			remarkMermaid,
+		],
+		rehypePlugins: [
+			rehypeKatex,
+			[
+				rehypeExternalLinks,
+				{
+					target: "_blank",
+					rel: ["nofollow", "noopener", "noreferrer"],
+				},
+			],
+			rehypeSlug,
+			rehypeWrapTable,
+			rehypeMermaid,
+			[
+				rehypeComponents,
+				{
+					components: {
+						github: GithubCardComponent,
+						note: (x, y) => AdmonitionComponent(x, y, "note"),
+						tip: (x, y) => AdmonitionComponent(x, y, "tip"),
+						important: (x, y) =>
+							AdmonitionComponent(x, y, "important"),
+						caution: (x, y) => AdmonitionComponent(x, y, "caution"),
+						warning: (x, y) => AdmonitionComponent(x, y, "warning"),
+					},
+				},
+			],
+			[
+				rehypeAutolinkHeadings,
+				{
+					behavior: "append",
+					properties: {
+						className: ["anchor"],
+					},
+					content: {
+						type: "element",
+						tagName: "span",
+						properties: {
+							className: ["anchor-icon"],
+							"data-pagefind-ignore": true,
+						},
+						children: [{ type: "text", value: "#" }],
+					},
+				},
+			],
+			rehypeImageWidth,
+		],
+	},
+	vite: {
+		plugins: [tailwindcss()],
+		build: {
+			assetsInlineLimit: 4096,
+			cssCodeSplit: true,
+			cssMinify: "esbuild",
+			inlineStylesheets: "auto",
+			minify: "esbuild",
+			rollupOptions: {
+				onwarn(warning, warn) {
+					if (
+						warning.message.includes(
+							"is dynamically imported by",
+						) &&
+						warning.message.includes(
+							"but also statically imported by",
+						)
+					) {
+						return;
+					}
+					warn(warning);
+				},
+			},
+		},
+		esbuildOptions: {
+			drop:
+				process.env.NODE_ENV === "production"
+					? ["console", "debugger"]
+					: [],
+		},
+	},
+});import sitemap from "@astrojs/sitemap";
+import svelte, { vitePreprocess } from "@astrojs/svelte";
+import { pluginCollapsibleSections } from "@expressive-code/plugin-collapsible-sections";
+import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
+import swup from "@swup/astro";
+import tailwindcss from "@tailwindcss/vite";
+import { defineConfig } from "astro/config";
+import expressiveCode from "astro-expressive-code";
+import icon from "astro-icon";
+import { umami } from "oddmisc";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
+import rehypeComponents from "rehype-components";
+import rehypeExternalLinks from "rehype-external-links";
+import rehypeKatex from "rehype-katex";
+import rehypeSlug from "rehype-slug";
+import remarkDirective from "remark-directive";
+import remarkMath from "remark-math";
+import remarkSectionize from "remark-sectionize";
+import pwa from "@vite-pwa/astro";
+
+import { siteConfig } from "./src/config.ts";
+import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
+import { pluginLanguageBadge } from "./src/plugins/expressive-code/language-badge.ts";
+import { AdmonitionComponent } from "./src/plugins/rehype-component-admonition.mjs";
+import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.mjs";
+import { rehypeImageWidth } from "./src/plugins/rehype-image-width.mjs";
+import { rehypeMermaid } from "./src/plugins/rehype-mermaid.mjs";
+import { rehypeWrapTable } from "./src/plugins/rehype-wrap-table.mjs";
+import { remarkContent } from "./src/plugins/remark-content.mjs";
+import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
+import { remarkFixGithubAdmonitions } from "./src/plugins/remark-fix-github-admonitions.js";
+import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
+
+export default defineConfig({
+	site: siteConfig.siteURL,
+	base: "/",
+	trailingSlash: "always",
+	output: "static",
+	integrations: [
+		umami({
+			shareUrl: false,
+		}),
+		swup({
+			theme: false,
+			animationClass: "transition-swup-",
+			containers: ["main"],
+			smoothScrolling: false,
+			cache: true,
+			preload: false,
+			accessibility: true,
+			updateHead: process.env.NODE_ENV === "production",
+			updateBodyClass: false,
+			globalInstance: true,
+			resolveUrl: (url) => url,
+			animateHistoryBrowsing: false,
+			skipPopStateHandling: (event) => {
+				return (
+					event.state &&
+					event.state.url &&
+					event.state.url.includes("#")
+				);
+			},
+		}),
+		icon(),
+		expressiveCode({
+			themes: ["github-light", "github-dark"],
+			plugins: [
+				pluginCollapsibleSections(),
+				pluginLineNumbers(),
+				pluginLanguageBadge(),
+				pluginCustomCopyButton(),
+			],
+			defaultProps: {
+				wrap: true,
+				overridesByLang: {
+					shellsession: { showLineNumbers: false },
+					bash: { frame: "code" },
+					shell: { frame: "code" },
+					sh: { frame: "code" },
+					zsh: { frame: "code" },
+				},
+			},
+			styleOverrides: {
+				codeBackground: "var(--codeblock-bg)",
+				borderRadius: "0.75rem",
+				borderColor: "none",
+				codeFontSize: "0.875rem",
+				codeFontFamily:
+					"'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+				codeLineHeight: "1.5rem",
+				frames: {
+					editorBackground: "var(--codeblock-bg)",
+					terminalBackground: "var(--codeblock-bg)",
+					terminalTitlebarBackground: "var(--codeblock-bg)",
+					editorTabBarBackground: "var(--codeblock-bg)",
+					editorActiveTabBackground: "none",
+					editorActiveTabIndicatorBottomColor: "var(--primary)",
+					editorActiveTabIndicatorTopColor: "none",
+					editorTabBarBorderBottomColor: "var(--codeblock-bg)",
+					terminalTitlebarBorderBottomColor: "none",
+				},
+				textMarkers: {
+					delHue: 0,
+					insHue: 180,
+					markHue: 250,
+				},
+			},
+			frames: {
+				showCopyToClipboardButton: false,
+			},
+		}),
+		svelte({
+			preprocess: vitePreprocess(),
+		}),
+		sitemap(),
+		pwa({
+			manifest: false,
+			workbox: {
+				globPatterns: ["**/*.{js,css,html,png,svg,ico,webp,woff2}"],
+				runtimeCaching: [
+					{
+						urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
+						handler: "CacheFirst",
+						options: {
+							cacheName: "google-fonts-cache",
+							expiration: {
+								maxEntries: 10,
+								maxAgeSeconds: 60 * 60 * 24 * 365,
+							},
+						},
+					},
+				],
+			},
+			includeAssets: ["favicon.ico", "icon-192.png", "icon-512.png"],
+			devOptions: {
+				enabled: true,
 				type: "module",
 			},
 		}),
