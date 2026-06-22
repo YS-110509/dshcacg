@@ -2,7 +2,7 @@
 
 ---
 
-### 🎐 近期活动 & 漫展情报 🎐
+## 🎐 近期活动 & 漫展情报 🎐
 
 **🌸 大上海城专场**
 📍郑州大上海城
@@ -52,7 +52,7 @@
 
 ---
 
-### 💙 关于社群 · 我们的大家庭 💙
+## 💙 关于社群 · 我们的大家庭 💙
 
 **郑州大上海城二次元交流群**，是一个以 **初音未来 (Miku)** 作为看板娘的综合性二次元同好聚集地！🎵
 
@@ -68,7 +68,7 @@
 
 ---
 
-### 📜 群规公告 · 一起守护小天地 📜
+## 📜 群规公告 · 一起守护小天地 📜
 
 亲爱的群成员们：
 
@@ -100,26 +100,121 @@
 
 ## 📲 将“大上海萌资讯”添加到手机桌面
 
-想获得 **原生 App 一样的沉浸体验**？只需两步，即可将本站添加到主屏幕，**快速打开、随时阅览！**！
+想获得 **原生 App 一样的沉浸体验**？只需两步，即可将本站添加到主屏幕，**快速打开、随时阅览**！
 
-### 🍎 iPhone / iPad 用户
-点击下方按钮下载描述文件，安装后桌面就会出现专属图标。
+### iPhone/iPad 用户
 
-<a href="/install.mobileconfig" style="display:inline-block; background:#1A9CD4; color:#fff; padding:12px 28px; border-radius:30px; text-decoration:none; font-weight:bold; margin:10px 0;">📲 安装iOS描述文件(支持 iOS11.3 及以上)</a>
+#### 适配 iOS 13.0 ～ 27.0
 
-> **安装步骤**：点击“下载” → 打开手机“设置” → 顶部“已下载的描述文件” → 点击“安装” → 输入锁屏密码 → 完成！退回桌面就能看到图标啦 ✨
-
----
-
-### 🤖 安卓系统手机 用户
-
-正在制作中ing...
+1. 在 Safari 中打开本页，点击底部中间的 **“分享”按钮**（方框带向上箭头）。
+2. 在分享面板中 **向下滑动**，找到并点击 **“添加到主屏幕”**（图标为“+”加方框）。
+3. 点击右上角 **“添加”**。
+4. 回到桌面，点击图标即可全屏启动。
 
 ---
 
-### 🤖 鸿蒙NEXT系统手机 用户
+#### 适配 iOS 7.1.2 ～ 12.4
 
-正在制作中ing...
+1. 在 Safari 中打开本页，点击底部中间的 **“分享”按钮**（方框带向上箭头）。
+2. 在底部弹出的横条菜单中 **左右滑动** 图标行，找到并点击 **“添加到主屏幕”**。
+3. 点击右上角 **“添加”**。
+4. 回到桌面，点击图标即可全屏启动。
+
+---
+
+#### 适配 iPadOS 7.1.2 ～ 27.0
+
+1. 在 Safari 中打开本页，点击 **顶部地址栏右侧** 的 **“分享”按钮**（方框带向上箭头）。
+2. 根据你的系统版本：
+   - **iPadOS 13+**：向下滑动面板，点击 **“添加到主屏幕”**。
+   - **iPadOS 7~12**：在底部横条菜单中左右滑动，点击 **“添加到主屏幕”**。
+3. 点击右上角 **“添加”**。
+4. 回到桌面，点击图标即可全屏启动。
+
+---
+
+### Chrome/Edge内核浏览器 用户
+
+<div style="text-align: center; margin: 16px 0;">
+  <a id="installAppBtn" href="javascript:void(0)" style="display: inline-block; padding: 14px 32px; background: linear-gradient(135deg, #1A9CD4, #0f7bb0); color: #fff; border-radius: 50px; font-size: 18px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 20px rgba(26, 156, 212, 0.5); transition: transform 0.2s;">
+    📲 安装 萌资讯App
+  </a>
+  <p style="font-size: 14px; color: #888; margin-top: 8px;">适用于 Android / 鸿蒙 / 桌面浏览器</p>
+</div>
+
+<script>
+  (function() {
+    let deferredPrompt = null;
+
+    // 监听 beforeinstallprompt（Android / 鸿蒙支持）
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      console.log('✅ PWA 可安装（Android/鸿蒙）');
+    });
+
+    // 点击安装按钮
+    const btn = document.getElementById('installAppBtn');
+    if (btn) {
+      btn.addEventListener('click', async (e) => {
+        e.preventDefault();
+
+        // 1. 如果支持 beforeinstallprompt，调用它
+        if (deferredPrompt) {
+          deferredPrompt.prompt();
+          const { outcome } = await deferredPrompt.userChoice;
+          console.log(`用户${outcome === 'accepted' ? '同意' : '拒绝'}安装`);
+          deferredPrompt = null;
+          return;
+        }
+
+        // 2. 否则，检测设备类型并给出指引
+        const isMobile = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
+        const isIOS = /iPhone|iPad/i.test(navigator.userAgent);
+
+        if (isIOS) {
+          // iOS 不支持 beforeinstallprompt，引导手动操作
+          alert(
+            '📱 iOS 用户请手动安装：\n\n' +
+            '1. 点击 Safari 底部的“分享”按钮（方框+↑）\n' +
+            '2. 选择“添加到主屏幕”\n' +
+            '3. 点击“添加”即可\n\n' +
+            '安装后桌面会出现图标，点击即可全屏浏览！'
+          );
+        } else if (isMobile) {
+          // 其他移动端（Android/鸿蒙）但不支持 beforeinstallprompt（如微信浏览器）
+          alert(
+            '📱 您的浏览器不支持一键安装，请手动操作：\n\n' +
+            '1. 点击地址栏右侧的 ⋮ 菜单（或“更多”）\n' +
+            '2. 选择“安装应用”或“添加到主屏幕”\n' +
+            '3. 按提示完成安装\n\n' +
+            '安装后桌面会出现图标，点击即可全屏浏览！'
+          );
+        } else {
+          // 桌面浏览器
+          alert(
+            '🖥️ 桌面端安装方法：\n\n' +
+            '• Chrome / Edge：点击地址栏右侧的 ⊕ 安装图标\n' +
+            '• 其他浏览器：查找“安装应用”或“添加到主屏幕”\n\n' +
+            '安装后可在开始菜单或桌面找到快捷方式。'
+          );
+        }
+      });
+    }
+  })();
+</script>
+
+---
+
+#### 📖 手动安装指引（适用于所有设备）
+
+如果上方按钮无法正常使用，你也可以按以下步骤手动安装：
+
+- **Android / 鸿蒙**：打开浏览器菜单（⋮），选择 **“安装应用”** 或 **“添加到主屏幕”**。
+- **iOS（iPhone/iPad）**：点击 Safari 的分享按钮，选择 **“添加到主屏幕”**。
+- **桌面浏览器**：点击地址栏右侧的 **⊕ 安装图标**（Chrome/Edge 均有）。
+
+安装后，桌面将出现“大上海萌资讯”图标，点击即可享受 **全屏沉浸** 的浏览体验。
 
 ---
 
