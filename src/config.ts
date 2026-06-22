@@ -372,7 +372,7 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "当前版本v1.2", // 公告标题，填空使用i18n字符串Key.announcement
+	title: "当前版本v1.2.1", // 公告标题，填空使用i18n字符串Key.announcement
 	content:
 		"更新内容：1.将近期活动与漫展移至【关于我们】；2.大上海萌资讯App(PWA)已开放安装，可前往【关于我们】中查看。", // 公告内容
 	closable: false, // 允许用户关闭公告
