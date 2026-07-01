@@ -26,7 +26,7 @@ const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UT
 export const siteConfig: SiteConfig = {
 	title: "大上海萌资讯",
 	subtitle: "郑州大上海城二次元交流群官网",
-	siteURL: "https://www.dshcacg.fun/", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://dshcacg.roka.ink/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2025-08-20", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
@@ -156,6 +156,7 @@ export const siteConfig: SiteConfig = {
 
 			subtitle: [
 				"欢迎回家！",
+				"北下街派出所报警电话：66226030",
 				"今天有好好的生活吗？",
 				"有什么有趣的事情发生吗？",
 				"如果遇到了什么挫折请不要灰心哦~",
@@ -190,7 +191,7 @@ export const siteConfig: SiteConfig = {
 		useJapaneseBadge: true, // 使用日语假名标记（あいうえお...）代替数字，开启后会将 1、2、3... 改为 あ、い、う...
 	},
 	showCoverInContent: true, // 在文章内容页显示文章封面
-	generateOgImages: true, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
+	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
 		// 留空以使用默认 favicon
 		// {
@@ -567,7 +568,7 @@ export const sakuraConfig: SakuraConfig = {
 
 // Pio 看板娘配置
 export const pioConfig: import("./types/config").PioConfig = {
-	enable: false, // 禁用看板娘以提升性能
+	enable: true, // 禁用看板娘以提升性能
 	models: ["/pio/models/pio/model.json"], // 默认模型路径
 	position: "left", // 模型位置
 	width: 280, // 默认宽度
