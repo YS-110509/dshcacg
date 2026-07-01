@@ -2,7 +2,7 @@
 title: 大上海城随舞歌单合集
 published: 2026-05-01
 pinned: false
-description: 大上海城及周边商铺随舞活动歌单汇总。
+description: 大上海城随舞活动歌单汇总。
 tags: [随舞, 歌单, 大上海城, 漫卡社, 郑谷]
 category: 游玩攻略
 licenseName: "CC BY-NC-ND"
