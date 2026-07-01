@@ -6,7 +6,7 @@ description: 大上海城及周边商铺随舞活动歌单汇总。
 tags: [随舞, 歌单, 大上海城, 漫卡社, 郑谷]
 category: 游玩攻略
 licenseName: "CC BY-NC-ND"
-author: 郑州大上海城二次元交流群
+author: 大上海萌资讯
 sourceLink: "https://dshcacg.roka.ink/meoid0031/"
 draft: false
 date: 2026-05-01
