@@ -7,7 +7,7 @@ tags: [卡维, 原神, 生咖, 郑州, 大上海城]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0029/"
+sourceLink: "https://dshcacg.roka.ink/meoid0029/"
 draft: false
 date: 2026-06-30
 pubDate: 2026-06-30

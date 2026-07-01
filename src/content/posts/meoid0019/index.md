@@ -7,7 +7,7 @@ tags: [温迪, 原神, 生咖, 应援咖啡厅, 大上海城]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0019/"
+sourceLink: "https://dshcacg.roka.ink/meoid0019/"
 draft: false
 date: 2026-06-08
 pubDate: 2026-06-08

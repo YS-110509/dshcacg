@@ -7,7 +7,7 @@ tags: [全职高手, 梦谷屋, GOODSCUTE]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0004/"
+sourceLink: "https://dshcacg.roka.ink/meoid0004/"
 draft: false
 date: 2026-04-1830
 pubDate: 2026-05-01

@@ -7,7 +7,7 @@ tags: [六一, 抽奖, 次元中医]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0017/"
+sourceLink: "https://dshcacg.roka.ink/meoid0017/"
 draft: false
 date: 2026-05-28
 pubDate: 2026-05-28

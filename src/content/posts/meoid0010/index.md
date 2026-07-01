@@ -7,7 +7,7 @@ tags: [闭店, 萌谷子]
 category: 店铺公告
 licenseName: "CC BY-NC-ND"
 author: 萌谷子
-sourceLink: "https://www.dshcacg.fun/meoid0010/"
+sourceLink: "https://dshcacg.roka.ink/meoid0010/"
 draft: false
 date: 2026-05-09
 permalink: "meoid0010"

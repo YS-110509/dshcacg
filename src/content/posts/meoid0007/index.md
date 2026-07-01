@@ -7,7 +7,7 @@ tags: [谷子店, 购物, 周边]
 category: 游玩攻略
 licenseName: "不适用"
 author: GoodsMap·谷店地图
-sourceLink: "https://www.dshcacg.fun/meoid0007/"
+sourceLink: "https://dshcacg.roka.ink/meoid0007/"
 draft: false
 date: 2026-05-02
 permalink: "meoid0007"

@@ -7,7 +7,7 @@ tags: [红白囍, 神英工作室, 盖章活动, 柴束薪, 木葛生]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0014/"
+sourceLink: "https://dshcacg.roka.ink/meoid0014/"
 draft: false
 date: 2026-05-21
 pubDate: 2026-05-21

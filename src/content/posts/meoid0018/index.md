@@ -7,7 +7,7 @@ tags: [高考加油, 祝福]
 category: 网站公告
 licenseName: "CC BY-NC-ND"
 author: 全体编辑
-sourceLink: "https://www.dshcacg.fun/meoid0018/"
+sourceLink: "https://dshcacg.roka.ink/meoid0018/"
 draft: false
 date: 2026-06-05
 pubDate: 2026-06-05

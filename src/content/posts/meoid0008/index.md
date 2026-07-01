@@ -7,7 +7,7 @@ tags: [摄影, 投票]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0008/"
+sourceLink: "https://dshcacg.roka.ink/meoid0008/"
 draft: false
 date: 2026-05-02
 permalink: "meoid0008"

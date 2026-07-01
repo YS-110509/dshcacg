@@ -7,7 +7,7 @@ tags: [违规记录, 封禁, 管理公示]
 category: 网站公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城二次元交流群
-sourceLink: "https://www.dshcacg.fun/meoid0027/"
+sourceLink: "https://dshcacg.roka.ink/meoid0027/"
 draft: false
 date: 2026-05-01
 pubDate: 2026-05-01

@@ -1,0 +1,3190 @@
+---
+title: 大上海城随舞歌单合集
+published: 2026-05-01
+pinned: false
+description: 大上海城及周边商铺随舞活动歌单汇总。
+tags: [随舞, 歌单, 大上海城, 漫卡社, 郑谷]
+category: 游玩攻略
+licenseName: "CC BY-NC-ND"
+author: 郑州大上海城二次元交流群
+sourceLink: "https://dshcacg.roka.ink/meoid0031/"
+draft: false
+date: 2026-05-01
+pubDate: 2026-05-01
+permalink: "meoid0031"
+---
+
+> 🎶 **随舞歌单合集**  
+> 以下歌单由大上海城官方发布，大上海萌资讯整理，供随舞爱好者参考练习。
+
+---
+
+## 📋 目录
+
+- [包菜不喜欢吃意面随舞歌单](#包菜不喜欢吃意面随舞歌单)
+- [大上海城超绝随舞歌单](#大上海城超绝随舞歌单)
+- [大上海城官方随舞第二弹](#大上海城官方随舞第二弹)
+- [大上海城随舞歌单第3弹](#大上海城随舞歌单第3弹)
+- [大上海随舞歌单](#大上海随舞歌单)
+- [大上海（四 Minor）随舞歌单](#大上海四-minor随舞歌单)
+- [到底是谁在搞音企 随舞歌单](#到底是谁在搞音企-随舞歌单)
+- [GOGOGO 起飞咯](#gogogo-起飞咯)
+- [gogogo起飞咯2.0](#gogogo起飞咯20)
+- [起飞咯3.0之牛马宅舞妹醒醒该拉磨了](#起飞咯30之牛马宅舞妹醒醒该拉磨了)
+- [起飞咯4.0](#起飞咯40)
+- [漫卡社随舞歌单](#漫卡社随舞歌单)
+- [漫卡社随舞第三弹歌单](#漫卡社随舞第三弹歌单)
+- [漫卡社随舞第四弹随舞歌单](#漫卡社随舞第四弹随舞歌单)
+- [漫卡社第五弹随舞歌单](#漫卡社第五弹随舞歌单)
+- [漫卡社随舞第六弹歌单](#漫卡社随舞第六弹歌单)
+- [喵喵喵超长随舞歌单](#喵喵喵超长随舞歌单)
+- [郑谷歌单](#郑谷歌单)
+- [郑谷歌单第二弹](#郑谷歌单第二弹)
+
+---
+
+## 包菜不喜欢吃意面随舞歌单
+
+- 寄明月
+- 像神一样呐
+- 极乐净土
+- 妄想感伤代偿联盟
+- gimme*gimme
+- beyond the way
+- crazybeat
+- 呐呐呐
+- 劣等上等
+- loveit
+- 天天天国地狱国
+- broodygroovy
+- p.h
+- 喝
+- 蹦
+- 花间酒
+- 杀掉她啦
+- 孩子气的战争
+- overdose
+- 奶油苏打和霓虹灯
+- 威风堂堂
+- 抚摸抚摸
+- 子然炉火
+- king
+- 贼侠
+- 新宝岛
+- 微笑调查队
+- More jump more
+- u.s.a.
+- 欲于辉夜城起舞
+- my舞
+- 医学
+- 不知醉
+- snowhalation
+- 人鱼狂欢节
+- 乐意效劳
+- 万有引力
+- 变身土豆
+- 强风大背头
+- 月光
+- 偶像梦幻祭体操
+- 风那花
+- Love potion
+- Start dash
+- Sunny day song
+- 我们是合二为一的光芒
+- 元气少女缘结神
+- 审判之战
+- 萨姆沙
+- 恋心收藏家
+- 跳进新世界的大门
+- biteme
+- dejavu
+- Tell me
+- 没有明天
+- What is love?
+- thunder
+- 这么可爱真是抱歉
+- drama
+- do the dance
+- whiplash
+- 混沌布吉
+- mottai
+- ready study
+- hack it
+- 晚安大小姐
+- 梦幻都破碎
+- 死气沉沉小火车
+- 冰激凌
+- 声波派对
+- 启明星
+- 星街彗星
+- 物理魔法使主题曲
+- 将军
+- Love连接中
+- 想成为你的恋人
+- 星期五的早安
+- Dirty work
+- sweetvenom
+- pinkvenom
+- psycko
+- spaghetti
+- 如今的我们
+- 女主角育成计划
+- 桃源恋歌
+- 伪物人间401号
+- 大喜
+- blessing
+- 闪耀下风
+- 回家的诱惑
+- 纯青
+
+---
+
+## 大上海城超绝随舞歌单
+
+- 恋爱循环
+- 催眠师
+- 极乐净土
+- booo!
+- 染上你的颜色
+- 写作悔恨的未来
+- 我的偶像宣言
+- 这么可爱真是抱歉
+- 再见宣言
+- 太阳系disco
+- phony
+- p.h.
+- 电子天使
+- 苦巧克力装饰
+- 我最可爱的地方
+- 偶像梦幻祭体操
+- 恋爱水族馆
+- 爱我你就抱抱我
+- kks
+- Flos
+- roki
+- 比比芭比波
+- 罗密欧与辛德瑞拉
+- 可步三连mix
+- 萨姆沙
+- aao
+- 女主角育成计划
+- Idsmile
+- 心灵之蛋
+- 这是个
+- 多么美好的六月
+- blessing
+- 千本樱
+- 微笑调查队
+- 恋爱循环
+- 神的随波逐流
+- 狂欢派对之夜
+- 跳舞的音乐
+- 不为人知的鹅妈妈童谣
+- 孩子气的战争
+- gimme*gimme
+- bad apple
+- 人鱼狂欢节
+- 星期五的早安
+- darling dancing
+- 喜欢你的感觉
+- 才不是要废萌
+- 执于辉夜城起舞
+- love potion
+- realize (美妙天堂)
+- make it (美妙天堂)
+- 寄明月
+- 恋爱水族馆
+- 天命的幸运草
+- 快乐合成器
+- Internet overdose
+- tiny stars
+- 唱吧 唱吧
+- 子然炉火
+- 啦啦啦
+- change
+- 劣等上等
+- 世界第一公主殿下
+- 电影
+- 节拍舞
+- 医学
+- hack
+- shanti
+- 唱
+- 蹦
+- 燃烧了
+- 旋转吧月花
+- 我就是大哥大
+- 不知醉
+- beyond the way
+- 妄想感伤代偿联盟
+- 像神一样呐
+- 萝莉神的安魂曲
+
+---
+
+## 大上海城官方随舞第二弹
+
+- 抚摸抚摸
+- 拉薇
+- 女主角和偶像
+- Nightmare
+- 如今的我们
+- 极乐净土
+- 妄想感伤代偿联盟
+- 伏特攻击
+- lii
+- 神的随波逐流
+- 人狂热者
+- 大喜
+- 梦想之门
+- 拼凑的断音
+- 恋爱循环
+- 劣等上等
+- Beyond the way
+- 桃源恋歌
+- 遮阳伞汽车
+- 寄明月
+- 像神一样呐
+- 魔法少女与巧克力
+- 杀掉她啦
+- 呐呐呐
+- 不知醉
+- 心电感应
+- Darling
+- Internet overdose
+- Loveit
+- CH4nge
+- 乐意效劳
+- Shanti
+- Darling dance
+- P.h.
+- 青空跳跃
+- 变身土豆
+- 帝国少女
+- 元气少女缘结神
+- 电影
+- 心灵之蛋
+- 进化之夏
+- 同担拒否
+- 满怀爱意接近中
+- 花间酒
+- Bye bye bye
+- 假死化
+- 恋爱水族馆
+- 奇人盛宴之夜
+- Blender
+- 医学
+- Mottai
+- 小理体操
+- Kks
+- guru
+- Love me if you can
+- Overdose
+- 欲于辉夜城起舞
+- 新宝岛
+- 甜甜白雪之歌
+- 微笑调查队
+- 这么可爱真是抱歉
+- 响喜乱舞
+- 兔子洞
+- 美丽的夜莺
+- Start dash
+- more jump more
+- 偶像活动
+- 喜欢你哦
+- Realize
+- 夏色
+- 暴风雨之夜
+- 好友革命
+- Bling bang bang born to kimeki
+- 皆大欢喜
+- Nbg
+- 鬼之宴
+- 晚安大小姐
+- bibibaba
+- 琪露诺的完美算数教室
+- ready steady
+- Snow halation
+- 审判之战
+- 海百合海底谭
+- 我最可爱的地方
+- RPG
+- Internet yemero
+- 寂寞宝贝
+- ultra c
+- 梦幻祭体操
+- lamb
+- Chiwawa
+- Phony
+- 吸血鬼
+- 唱
+- 我们的live与你的life
+- 神秘芳香
+- 偶像新锐队
+- shack
+- 勾指起誓
+- 猛毒
+- 快乐合成器
+- 踊
+- Neo
+- 正是因为咽无精
+- 少年游戏
+- 太阳系disco
+- 怪物
+- 聚光
+- 恋爱裁判
+- 深海少女
+- 彩虹节拍
+- showtime ruler
+- 爱上你万岁
+- 神迹魔法
+- Lovepotion
+- 流星群
+- 星期五的早安
+- wonderful rush
+- 降下诛罪
+- 启示舞步
+- 倔强游戏
+- my舞
+- 启明星
+- 深深暗日蚀
+- 回家的诱惑
+- make it
+- 黎明天使
+- 无责任集合体
+- 闪烁光谱
+- 不为人知的鹅妈妈童谣
+- wild stars
+- Blessing
+- 转圈
+- 再见偷花人
+- Kirkira sensation
+- 触摸天空
+- Fixer
+- 群青
+- 或这绝美最后一滴
+- Angelic Angel
+- 交织together
+- Happy Halloween
+- 滑稽梦
+- Starry Sky parade
+- 香格里拉大澡堂
+- 你没问题的
+- 你的女友
+- 芭蕾舞者
+- 子然炉火
+- Music start
+- 若能绽放光芒
+- 樱桃炸弹
+- 麻烦鬼2
+- Ayumi magical showtime
+- 1000年生命
+- 爱言叶4
+- Crazy beat
+- 草莓行星
+- 试试悸动之铃
+- 学园孤岛
+- Sunny day song
+- Wiggle wiggle
+- Idol
+- 将手
+- 打上花火
+- 染上你的颜色
+- 南瓜噩梦
+- Dancing heart la pa la pa
+- Dancing stars on me
+- 非人哉
+- 阿修罗酱
+- 行星环
+- 电子天使
+- 最后的结局
+- Booo!
+- 璀璨笑容
+- 才不是恶魔呢
+- Fairy Tale Library
+- 心跳光谱
+- Motto
+- King
+- 苦巧克力装饰
+- 粉碎之审判
+- Drop pop candy
+- 旋转吧！雪月花
+- 思绪碎片
+- 暗号是B
+- 肃清！萝莉神的安魂曲
+- 书记舞
+- 奶油苏打和霓虹灯
+- 憧憬成为魔法少女
+- Startt Rain
+- 我是大哥大
+- 45秒能做什么呢？
+- Melomeloid
+- 好
+- 随心所欲mercy
+- 我们是合二为一的光芒
+
+---
+
+## 大上海城随舞歌单 第3弹
+
+- 爆竹炸弹
+- Wild star
+- 触碰天空
+- 璀璨笑容
+- 芭蕾舞者
+- Booo!
+- Sunny day song
+- 3rd Fixer
+- Start Rain
+- 不为人知的鹅妈妈童谣
+- 香格里拉大澡堂
+- 你的女友
+- 然后是最后一页
+- 电子天使
+- Kira kira sensation
+- 心跳光谱
+- 才不是恶魔呢
+- Starry sky parade
+- 打上花火
+- Blessing
+- Music start
+- 再见偷花人
+- 萝莉神的安魂曲
+- Dancing stars on me
+- 草莓行星
+- motto
+- 行星环
+- 憧憬成为魔法少女
+- 子然炉火
+- 或这绝美最后一滴
+- 书记舞
+- 心跳光谱
+- 初音之绊
+- 莫忘初衷
+- 癫狂梦
+- Ayumi Magical show time
+- 创世纪
+- 天之弱
+- Creazy beat
+- 爱恋之春
+- Idol
+- King
+- 暗号是B
+- 暴风雨之夜
+- 麻烦鬼2
+- 群青
+- 跃动青春
+- 黑星
+- 我是大哥大
+- ID smile
+- Blink Gone
+- 方舟之翼
+- 染上你的颜色
+- 审判之战
+- 光辉王冠
+- 非人哉
+- Heart kiss
+- 花叙时节
+- 试试悸动之铃
+- 美丽的夜莺
+- Happy halloween
+- 写作悔恨的未来
+- 夏色笑容
+- 旋转吧！雪月花
+- 启示舞步
+- Cat loving
+- 璀璨笑容
+- 萨姆沙
+- 恋爱循环
+- 如今的我们
+- 神秘芳香
+- 心灵之蛋
+- Start dash
+- 乐意效劳
+- 天使恶典
+- Wonderful Rush
+- 寄明月
+- 心灵之蛋
+- 电影
+- flos
+- 前进吧tomorrow
+- 新圣域
+- 黎明前线
+- 催眠术
+- Sweet holiday
+- 陷入陷阱
+- 幸灾乐祸先生
+- 欲于辉夜城起舞
+- 妄想感伤代偿联盟
+- 猛鸷高飞强音
+- Love potion
+- 太阳系disco
+- B with U
+- 遮阳伞汽车
+- 杀掉她啦
+- 视奸
+- cr哭
+- 抚摸抚摸
+- 黎明天使
+- Darling dance
+- Fusion
+- 启明星
+- Gimme gimme
+- 赛博朋克死亡男孩
+- RPG
+- USA
+- 世界第一公主殿下
+- 爱上你万岁
+- Mottai
+- Pop in2
+- 思念合二为一
+- Hack
+- 原来是炼金术士啊还是猎猫呢
+- 黄盲五彩星
+- 变身土豆
+- 不能之夜
+- 快乐合成器
+- 恋游仙境
+- 神的随波逐流
+- 永不终结的交响曲
+- 恶魔契约
+- 贼侠
+- 星期五的早安
+- 蝴蝶机
+- 迷乱蜘蛛
+- 这么可爱真是抱歉
+- 就是啊
+- 杜绝虚构
+- 流星花火
+- 恋爱水族馆
+- Internet overdose
+- 向着无尽之灰
+- 甜蜜情书
+- 晴天好心情
+- 坏心眼的狼
+- 可变三连
+- 约会方案
+- 呐呐呐
+- 寂寞宝贝
+- 一骑当千
+- AAO
+- Kagayakiirara
+- 奇迹星之曲
+- 女主角平均以下
+- 快乐小火车
+- 恶魔的舞蹈方式
+- Watch me
+- 怪异常
+- 魔法少女与巧克力
+- 我的偶像宣言
+- 好想变瘦人
+- Very berry sweet white
+- Animal
+- 勾指起誓
+- Make it
+- 派派假面
+- 我们的live your life
+- 宇宙
+- 三色旗
+- 虹野梦入学曲
+- 心跳不已
+- 聚光
+- 少年游戏
+- 跃动青春
+- 不可思议的wonder
+- 病名为爱
+- 苦巧克力装饰
+- 幸运密码
+- More jump more
+- 假死化
+- Fairy tale library
+- 强风大背头
+- la pa pa
+- 劣等上等
+- 死神
+- Hysteric Bullet
+- 元气少女缘结神
+- Beyond the way
+- B with U
+- 遮阳伞汽车
+- 杀掉她啦
+- 视奸
+- cr哭
+- 抚摸抚摸
+- 黎明天使
+- Darling dance
+- Fusion
+- 启明星
+- Gimme gimme
+- 赛博朋克死亡男孩
+- RPG
+- USA
+- 世界第一公主殿下
+- 爱上你万岁
+- Mottai
+- Pop in2
+- 思念合二为一
+- Hack
+- 原来是炼金术士啊还是猎猫呢
+- 黄盲五彩星
+- 变身土豆
+- 不能之夜
+- 快乐合成器
+- 恋游仙境
+- 神的随波逐流
+- 永不终结的交响曲
+- 恶魔契约
+- 贼侠
+- 星期五的早安
+- 蝴蝶机
+- 迷乱蜘蛛
+- 这么可爱真是抱歉
+- 就是啊
+- 杜绝虚构
+- 流星花火
+- 恋爱水族馆
+- Internet overdose
+- 向着无尽之灰
+- 甜蜜情书
+- 晴天好心情
+- 坏心眼的狼
+- 可变三连
+- 约会方案
+- 呐呐呐
+- 寂寞宝贝
+- 一骑当千
+- AAO
+- Kagayakiirara
+- 奇迹星之曲
+- 女主角平均以下
+- 快乐小火车
+- 恶魔的舞蹈方式
+- Watch me
+- 怪异常
+- 魔法少女与巧克力
+- 我的偶像宣言
+- 好想变瘦人
+- Very berry sweet white
+- Animal
+- 勾指起誓
+- Make it
+- 派派假面
+- 我们的live your life
+- 宇宙
+- 三色旗
+- 虹野梦入学曲
+- 心跳不已
+- 聚光
+
+---
+
+## 大上海随舞歌单
+
+- 极乐净土
+- 不灭圣爱
+- 才不是恶魔呢
+- 迷乱蜘蛛
+- 奇迹路
+- 创世纪
+- 好友革命
+- loveit?
+- 觉醒神曲
+- Internet overdose
+- 圆圆的地球
+- 呐呐呐
+- sunshine
+- 群青
+- 寄明月
+- 子然炉火
+- 暗号是B
+- 不对！ 不对！
+- 人狂热者
+- 我可爱的地方
+- 人鱼狂欢节
+- 欢乐 少女
+- 晴天好心情
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+- 暴风雨之夜
+
+---
+
+## 大上海（四 Minor）随舞歌单
+
+- envy baby
+- 美女少女魂
+- 前进吧tomorrow
+- girls
+- 雪色光芒
+- ringing evil phone
+- 唱
+- bing bang bang born
+- 超喜欢爱心派对
+- Lamb
+- 人鱼狂欢节
+- 我的偶像宣言
+- 兔子洞
+- 天下无敌流星部队
+- 战神之歌
+- III
+- 医学
+- 笑颜贩卖的神
+- 乐意效劳
+- 强者
+- darling dance
+- 妄想感伤代偿联盟
+- 强风大背头
+- 强风大背头
+- 电影
+- 深蓝暗日蚀
+- 小理体操
+- 怪怪
+- 寄明月
+- 虚假真实
+- 我们
+- love potion
+- sad girl
+- my 舞
+- 呐呐呐
+- 不眠之夜
+- 像神一样呐
+- 不灭圣爱
+- 太阳系disco
+- 迷途的羔羊
+- 奇人盛宴之夜
+- 马卡龙
+- 怪怪
+- 初音
+- 阿修罗酱
+- 喵喵喵
+- 猫
+- 花间酒
+- 寄明月
+- 萨姆沙
+- 迷乱蜘蛛
+- 阿修罗酱
+- 喵喵喵
+- 甜心宝贝
+- 大江户
+- 虹野梦入学曲
+- 嘟嘟嘟
+- 破灭の芽
+- 跳舞吧
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+- 千本樱
+- 欢脱
+
+---
+
+## 到底是谁在搞音企 随舞歌单
+
+- 世界碎片
+- 这么可爱真是抱歉
+- 花叙时节
+- 恋爱裁判
+- 深海少女
+- 黄盲五彩星
+- 染焰
+- CH4NGE
+- 城皇心
+- 唱
+- 圣少年游戏
+- king
+- 变身土豆
+- 再见宣言
+- my舞
+- follow
+- 启示舞步
+- 无声的誓言
+- Darling dance
+- 甜甜白雪之歌
+- 燃料
+- 降下祷告
+- sunny day song
+- LOCK YOUR GAZE
+- bangbangbang
+- 鬼魅宴请馆
+- 探幽曲
+- 妄想感伤代偿联盟
+- 威风堂堂
+- 太阳系disco
+- 此生的绝对爱宣言
+- 街
+- 假死化
+- Internet overdose
+- 粉碎之审判
+- 音无效力装饰
+- 月環のRefraction
+- 人鱼狂欢节
+- 爱的免死方
+- 疯狂轮盘
+- 派派假面
+- 心情x箱
+- 四叶草念
+- 一骑当千
+- 星期五的早安
+- 呐呐呐
+- 拼凑的断音
+- 祝福的图书馆
+- startdash
+- 神的随波逐流
+- 极乐净土
+- 黑兽
+- 审判之战
+- 魅惑剧
+- shadow shadow
+- ci*zy
+- 虚无之鸟
+- 强风大背头
+- 热异常
+- 书记舞
+- TRIGGER-DiamondFusion
+- 乐意效劳
+- 美丽的夜莺
+- 海盐曲
+- DNA
+- IF9
+- 暴风雨之夜
+- 奇人盛宴之夜
+- calloveing
+- 猛狼
+- 电影
+- 创世纪
+- 迷乱蜘蛛
+- Infinity
+- 泰坦天使
+- 国产游戏
+- 游戏死梦
+- TRIGGER-Interlude
+- 混沌布吉
+- 微笑调查队
+- 绝对敌对超级讨厌
+- popin2
+- 劣等上等
+- 美少女死神
+- 偶像梦幻祭体操
+- 抚摸抚摸
+- GimmeXGimme
+- morejumpmore
+- 萨姆沙
+- 红宝石之爱
+- 快乐合成器
+- 陷入陷阱
+- shanti
+- 今宵于月下之馆
+- 晴朗笑容
+- 跃进新世界
+- 我们的live与你的life
+- 灵魂蝴蝶
+- Fusion(配合)
+- 幻想仙境
+- III
+- 寄明月
+- 利己主义者
+- 暗号B
+- Crazybeat
+- 像神一样呐
+- 民俗曲
+- 魔法少女与巧克力
+- 女子摇滚曲之心
+- 神仙使者
+- 晚餐大启
+- 花间酒
+- 怪物
+- 好友革命
+- im your treasure box
+- TRIGGER-Last Dimension
+- p.h.
+- Utopia官方插曲
+- 永不终结的交响曲
+- 流星花火
+- 浪漫航线
+- 倦眠术
+- 恶魔契约
+- 方舟之翼
+- 医学
+- 你 Are Mine
+- STAR TRAIN
+- 探求魔法
+- (A)deletion
+- bloody groovy
+- 黑手党
+- 匿名m
+- 月光调舞曲
+- 点彩成画
+- 结束
+- 爱我吧爱我吧
+- 吸血鬼
+- 燃烧了
+- 黎明前线
+- Blessing
+- 不为人知的鹅妈妈童谣
+- 樱桃炸弹
+- 踢
+- 寂寞宝贝
+- 蜉蝣耳机
+- 非人哉
+- 桃源恋歌
+- 我最可爱的圣地
+- 禁忌之吻
+- 人工呼吸
+- 宇宙
+- 聚光
+- 东京泰迪熊
+- 美味
+- loveit
+- overdose
+- 马卡龙
+- 怪物之花
+- 歌剧
+- 燃烧之拳
+- 无限灰
+- 大江户
+- 0-weed-old
+- 你要做好孩子还是坏孩子
+- 春风
+
+---
+
+## GOGOGO 起飞咯
+
+- id smile
+- loser
+- villain
+- shanti
+- 我的偶像宣言
+- oh loveplease
+- phony
+- oh!
+- call
+- start!
+- snowmix
+- shacking party
+- ia-pa-pa-pa!
+- 圆圆的地球
+- 星
+- 鹭
+- 舞
+- dancing raspberry
+- ultra c
+- Tokimeki runners
+- guru
+- 呜咽呜咽呜呜
+- 深海少女
+- 向着无尽的云
+- 懒鼠夜起舞
+- 帝国少女
+- 就是啊
+- Private wars
+- wonder zone
+- 怪物
+- 懦弱
+- LILIT!
+- 返歌栏清
+- 无呼吸灵药
+- 热异常
+- red passions
+- Queen
+- 染上你的颜色
+- 未熟dreamer
+- 想成为你的恋人
+- 重光序曲
+- 转生苹果
+- 香格里拉大澡堂
+- 乱葬裂裂
+- 珍宝宝贝
+- 恋爱水族馆
+- calc
+- 跃进新世界
+- 假死化
+- 维他命summer
+- 永承者
+- echo
+- 奇异波浪
+- At3cream
+- 假死人生
+- 告白日和
+- 未来
+- 晨蝶Summer
+- USA
+- 快乐合成器
+- chinawa
+- mi-酱色の卵
+- 唱
+- 贝斯特之翼
+- 陨石
+- 命命土
+- 祝福
+- 黄昏里
+- 高音区
+- 萤火
+- 意力
+- 碧空时
+- 恋
+- 剪花
+- 舞
+- 圈
+- 美尻
+- 拉特里斯
+- 木偶
+- 舞剧
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+- 拉特里斯
+- 木头人
+
+---
+
+## gogogo起飞咯2.0
+
+- 超级甜白雪公主
+- asedream
+- 1st 一起唱
+- 跳进新世界
+- gimme*gimme
+- 不知醉
+- 或这绝美最后一滴
+- 噼里啪啦噼里啪啦
+- grateful punishment
+- 恋爱水族馆
+- 就是啊
+- 阿修罗酱
+- 千万次的 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+- 阿修罗酱
+
+---
+
+## 起飞咯3.0之牛马宅舞妹醒醒该拉磨了
+
+- 君瞳
+- 第十一刻
+- 生猛绝对爱宣言
+- 暴力扳机 (原pv)
+- 糖果曲奇巧克力
+- 猛毒
+- 怪物
+- 怪物之花 (pisk韩振)
+- 白日梦战士
+- 纯白天使的颂歌
+- 好友革命 (多人)
+- 人家才不是恶魔呢
+- 桃源恋歌
+- 樱桃炸弹
+- 轻飘飘的时间
+- 唱 (原pv)
+- 大声钻石
+- 大喜
+- 强风大背头
+- 大人造 (原pv)
+- 香格里拉大澡堂
+- 猛毒 (原pv)
+- 热异常
+- 无声的誓言
+- 咽无精
+- 无尽旋转
+- 无尽灰
+- 虚无先生
+- 心跳光谱
+- 心灵之蛋
+- 心灵感应
+- 嫉妒宝贝
+- 闪耀夏风
+- 夏色笑容12jump
+- 再见偷花人
+- 恋爱幸运曲奇
+- 恋爱水族馆
+- 恋爱循环
+- 恋游仙境
+- 飞跃极限
+- 苦巧克力装饰
+- 星灵闪耀
+- 繁星变鸣响彻之时
+- 流星群
+- 小星星 (动画版)
+- 启明星
+- 星期五的早安
+- 流星花火
+- 星光序曲
+- follow
+- 飞跃忧郁
+- dsom (lovelive)
+- love it
+- rpg
+- 太阳系disco
+- phony
+- idol
+- overdose
+- pop in 2
+- love it?
+- love potion
+- sunny day song
+- you are mine
+- 雪色光晕
+- pieces of the would
+- (太好听下不去手剪了是三分钟)
+- 燃料
+- 奇迹梦想旅行家
+- 餐具 (原pv)
+- 冰淇淋
+- 下课铃声
+- crazy beat
+- 45s能做什么呢
+- g4!
+- bangbangbangbang
+- 彩虹节拍
+- 妄想感伤代偿联盟
+- 暗号B
+- make it
+- cy'zy
+- Encounter Love Song
+- 爱与和平传说
+- 与梦盛开
+- dancing heart la-pa-pa
+- 天天天国地狱国
+- realize (美天)
+- sweet magic
+- binary vampire
+- 触摸天空
+- 极乐净土
+- 虎视眈眈
+- ch4nge
+- zero of overlap
+- 爱的免死方
+- ultra c
+- 然后是最后一页
+- 喜欢！雪！真实的魔法
+- 小小的我
+- 世界第一的公主殿下
+- 呐呐呐
+- 女主角育成计划
+- iii
+- king
+- lamb
+- Internet overdoses
+- 赛博朋克死亡男孩
+- 璀璨笑容
+- kks
+- DOMINO
+- 加油加油干花
+- 杀掉她啦
+- 染上你的颜色
+- 南瓜噩梦
+- 乐意效劳
+- 渴望诞生
+- 绝对敌对超级讨厌
+- 竞技场
+- 聚光
+- 寄明月
+- play
+- 偶像活动
+- happy lucky
+- 秀秀秀
+- STARDOM GENIUS
+- (偶像星愿十周年曲)
+- 萨姆沙
+- 鬼魅宴请馆
+- 花叙时节
+- 伪物人间40号
+- 我最可爱的地方
+- star dash
+- 派派假面
+- 跳进新世界
+- 或这绝美最后一滴
+- mind brand
+- かすみーとGIRL☆Yeah!
+- 悄悄话
+- 美丽的夜莺
+- 一骑当千
+- 医学
+- 蹦跳幸运兔
+- Insomnia (AAA有钱且自信振臂)
+- 海盗曲
+- 与你同行b with u
+- 中国少女
+- 转生苹果
+- 新圣域
+- bangbangbang
+- 猫爱
+- 不为人知的鹅妈妈童谣
+- 将军
+- 抚摸抚摸
+- private wars
+- 永不终结的舞台
+- 【SO-BA】TRIGGER
+- -DaybreakInterlude
+- 绝非虚构
+- 响喜乱舞
+- START☆RAIN
+- 勾指起誓
+- p.h.
+- 永不终结的交响曲
+- 满怀爱意接近你
+- 脑内革命少女
+- Now&Then
+- 混沌布吉
+- 异常跳舞的女孩
+- 幸福輪
+- No Sacrifice
+- 维他命summer
+- 快乐合成器
+- midnightcall
+- id smile
+- wdonder light
+- 梦幻祭体操
+- 我们是合二为一的光芒
+- 【TRIGGER】 願いはShine On The Sea
+- 喜欢你哦
+- 天使恶典
+- 成败在此一举
+- my life
+- 子然炉火
+- 画一个圆圆的地球
+- 永恒的编织者
+- 游生梦死
+- 轮舞
+- 闪烁光谱
+- Revale/太陽のEsperanza
+- 黎明天使
+- 这么可爱真是抱歉
+- 滑稽梦
+- 交织together
+
+---
+
+## 起飞咯4.0
+
+- hop stop nonstop
+- jackpot sad girl
+- bloody groovy
+- 偶像生活新手包
+- No Doubt
+- No Sacrifice
+- supernova
+- 雪色光晕
+- 幻日ミステリウム
+- ROKI
+- internet yamero
+- 生猛绝对爱宣言
+- 转生苹果
+- 眼瞳
+- envy baby (嫉妒宝贝)
+- 游生梦死
+- dancing raspberry
+- 异常跳舞的女孩
+- daring dance
+- holiday
+- 无声的誓言
+- 无爱世界
+- 照亮世界的四重音
+- 暗号是B
+- 朴光 (我们是合二为一的光芒)
+- 才不是恶魔呢
+- 吻的多样性
+- 我最可爱的地方
+- 可爱的女朋友
+- 美丽的夜莺
+- 肃清萝莉神
+- 爱恋的转转反侧的恋爱
+- 与反派的吻戏
+- 世界第一公主殿下
+- 我们的live和你的life
+- 染上你的颜色
+- 如今的我们
+- 满怀爱意接近中
+- 易碎
+- play [BV1BGKzzuEfe: 编舞： 樱 花/云宿 (本作禁止任何转载搬运 以及镜像投稿感谢理解qwq) 于是换版]
+- 做我的公主
+- 听见wo
+- 调色盘
+- 启示舞步
+- 新浪潮水手
+- ReRaRe*Station!
+- 一骑当千
+- 迷宫电子回廊
+- atoz (报歌人头像II)
+- 冰淇淋
+- 军
+- TRIGGER-Last Dimension
+- 超级·甜甜·白雪·公主
+- 混沌布吉
+- 跳进新世界
+- 心予报
+- 星灵闪耀
+- 樱桃炸弹
+- 这么可爱真是抱歉
+- vocaloid竞技场
+- 樱桃汽水
+- realize (烤)
+- 人鱼狂欢节
+- DOMINO
+- Internet overdoses
+- 这么幸福真的可以吗
+- aiscrcam
+- 杀掉她啦
+- 迷乱蝴蝶
+- realize (美天)
+- 然后是最后一页
+- 【SO-BA】TRIGGER -Daybreak Interlude
+- 桃源恋歌
+- Stuck In The Abyss
+- Piece of my world (全曲)
+- wonder light
+- nbg
+- 存活千年
+- 创世纪
+- START☆RAIN
+- STARDOM GENIUS(偶像星愿十周年曲)
+- star dash
+- Secret Masquerade
+- 世界碎片
+- プロポーズ/Propose (求婚)
+- binaryvampire
+- deep into you
+- popin2
+- 险境单程
+- 香格里拉大澡堂
+- 神秘芳香
+- 融化心动厨房
+- 假死化
+- mind brand
+- 派派假面
+- midnight call
+- You are mine
+- 未完成的我们
+- mystic light quest (明日方舟佩佩)
+- watch me
+- Mr.showtime (原创编舞版)
+- follow
+- 白色幸福
+- 白日梦战士
+- Now&Then
+- 编绘
+- 第六感
+- 电子天使
+- 偶像活动入学曲
+- Absolutety Beautiful
+- Bang bang bang!
+- Angelic Angel
+- deeplue
+- dreamy color
+- 呐呐呐
+- 奶油苏打和霓虹灯
+- 海百合海底谭 (原曲mv)
+- 即刻轮回
+- 乐意效劳
+- make it
+- 孑然炉火
+- 强风大背头
+- 书记舞
+- 太阳系disco
+- Revale/太陽のEsperanza (双版本怎么办，都放了。)
+- Obedience (服从) 全曲
+- red garden
+- crz love
+- 幸福论
+- 凯旋歌
+- game on
+- RPG
+- 不知醉(原创编舞版)
+- 不良少年少女
+- 唱
+- 触摸天空
+- chatter chatter
+- change
+- lovely kitchen
+- 恋爱水族馆
+- 深深暗日蚀
+- MONSTER GENERATION
+- INFINITY
+- 好戏开场
+- crazy beat
+- G4L
+- 辉夜城
+- q樱狼熊
+- 花叙时节
+- girls
+- idol
+- Riding
+- BREAK THE LIMITATION (2002slive)
+- 绯红艾薇
+- 红宝石之爱
+- 【botamperienta】 jewel 【POMEFORME】 (足太姬)
+- kks
+- dear world (d110后半载 巧团出道曲)
+- cグzy
+- 光
+- 【TRIGGER】 願い はShine On The Sea
+- La volteé Poméforce 家歌
+- gee
+- zero of overlap
+- 轮舞
+- 赛博朋克死亡男孩
+- 45S能做什么呢
+- Booo!
+- 水蓝新世界
+- 思念合二为一
+- 绝对敌对
+- shanti
+- 夜空起
+- 乐意效劳
+- 恋爱循环
+- 劣等上等
+- 梦想之门
+- music start
+- fusion
+- 再次重逢的世界
+- iii
+- King
+- lamb
+- lock your gaze
+- wonderful rush
+- love it
+- 烦死了
+- 抚摸抚摸
+- 怪物
+- 虎视眈眈
+- 爱上你万岁
+- We'll be knights
+- Love Potion
+- 大喜
+- 帝国少女
+- 咽无精
+- 海盗曲
+- 寄明月
+- 贼侠
+- 月夜见海月
+- 微笑调查队
+- 倒漾
+- 4-ROAR
+- leopard Eyes
+- 君瞳
+- KA-GA-YA-KI-RA-RI-RA
+- 君瞳
+- KA-GA-YA-KI-RA-RI-RA
+- 君瞳
+- KA-GA-YA-KI-RA-RI-RA
+
+---
+
+## 漫卡社随舞歌单
+
+- 闪耀夏风
+- だから僕は鳴らすんだ!
+- love me if you can
+- 大嫌いなはずだった
+- 红宝石之爱
+- love potion
+- 新宝岛
+- 情人节惊梦
+- move on now
+- 粉碎之审判
+- Beyondthe way
+- magnetic
+- formy stella
+- 誓言之剑
+- 桃源恋歌
+- 心电感应
+- 野星星
+- 一心一教
+- Nightmare
+- 癒者之夜城镇乐队
+- 电影
+- 神的随波逐流
+- 星期五的早安
+- 禁忌之雨
+- 融化心动厨房
+- 寄明月
+- 酒醉的蝴蝶
+- 徘徊之翼
+- 匿名M
+- 愉快的悲伤结局
+- 写作悔恨的未来
+- 美丽的夜莺
+- てくてくん♪ Reversible-Ring
+- 我的世界已坠入爱河
+- 梦幻祭体操
+- 迷宫电子回廊
+- 变身土豆
+- 天使恶典
+- jimo-aidash
+- Luminous Crown
+- 指尖上的阿里阿德涅
+- 爱之诗
+- 让其响彻
+- 太陽系テスコ
+- 触摸天空
+- 萨姆沙
+- 人鱼狂欢节
+- 恋爱循环
+- 寂寞的人伤心的歌
+- 梦想之门
+- magnet
+- 彩虹节拍
+- 抚摸抚摸
+- 萝莉神的安魂曲
+- 劣等上等
+- 向夜晚奔去
+- 我是大哥大
+- 绝对敌对超级讨厌
+- dance robots dance
+- 旋转吧雪月花
+- 孩子气的战争
+- 四叶信念
+- 千盏
+- KiRa-KiRa Sensation
+- 妄想感伤代偿联盟
+- 深黯日蚀
+- 染上你的颜色
+- Girls
+- Absolute Perfection
+- 心灵之蛋
+- gimme×gimme
+- We'll be Knights
+- 世界第一公主殿下
+- 德川杯面禁止令
+- nonfiction
+- 无声的誓言
+- 貪吃曲
+- 拼凑的断音
+- CH4NGE
+- 辉夜城起舞
+- 苦巧克力装饰
+- 小理体操
+- Pretty Prism Paradise
+- RPG
+- fans
+- 剑锋铮鸣
+- 威风堂堂
+- 极乐净土
+- 刀p2023
+- 不为人知的鹅妈妈童谣
+- 微笑调查队
+- pink cat
+- 奇人盛宴之夜
+- 逐渐加快
+- 想成为你的恋人
+- 夜笙歌
+- 东京不夜城
+- Hello New World
+- 随心所欲mercy
+- 交织together
+- 新圣域
+- ROKI
+- wake up my music
+- 唱
+- 雪色光晕
+- 祭夜绘卷
+- 快乐崇拜
+- 然后是最后一页
+- 审判之战
+- 背反古今
+- 聚光
+- 晚安大小姐
+- 晴朗笑容
+- phony
+- USA
+- internetyamero
+- 浸染朱红
+- 甜甜白雪之歌
+- apple pen
+- 创世纪
+- 无意义文字
+- HAPPY! LUCKY
+- 浪漫航线
+- 小小浪漫
+- 虎视眈眈
+- 爱恋之春
+- 告白日和
+- darling dance
+- 乙女解剖
+- 花叙时节
+- king
+- 祝福的图书馆
+- 神秘芳香
+- 感恩的忠诚
+- 甜心格gr op
+- 爱上你万岁
+- happy halloween
+- 子然炉火
+- 暖暖的KAITO
+- 不灭圣爱
+- かすみ〜とGIRL☆Yeah!
+- 玻璃花园
+- 那就是我们的奇迹
+- 大喜
+- idol
+- 这么可爱真是抱歉
+- lamb
+- 奇迹舞步
+- 像神一样呐
+- start dash
+- 千本樱
+- 恋爱水族馆
+- more jump more
+- 僕らのステラ
+- Hysteric Bullet
+- 夏色笑容
+- 或这绝美最后一滴
+- 快乐合成器
+- 罗密欧与辛德瑞拉
+- 今宵于月下之馆
+- Tiny Star
+- 骑士信念
+- wonderful rush
+- Drop pop candy
+- 书记舞
+- 第三套广播体操七彩阳光
+- 大香蕉
+- 暴风雨之夜
+- 不眠之夜
+- 扭曲之心
+- 魅惑剧
+- 马儿跳传说
+- 最后的挽歌
+- 流星花火
+- 回家的诱惑
+- Angelic Angel
+- アイドル活動!
+- music start
+- one with one
+
+---
+
+## 漫卡社随舞第三弹歌单
+
+- 爆炸极限
+- ヴァンパイア
+- 喜欢就真真实实的魔法！
+- 染上你的颜色
+- magnet
+- Internet overdose
+- 小兔子甜甜
+- 徘徊之翼
+- ayumi magical showtime
+- 皆大欢喜
+- 真人
+- 敌舞中
+- 裂口女
+- 真实の变人になりたい
+- realize
+- 美丽的夜莺
+- 深暗日蚀
+- 电影
+- love it
+- 甜甜白雪之歌
+- 祝福的图书馆
+- USA
+- 说唱吉他男孩
+- 人工呼吸
+- 启示舞步
+- make it
+- 大江户ジュリ
+- 乙女解剖
+- 暴风雨之夜
+- 刚声实神
+- 行星环
+- 我最可爱的地方
+- 白白幸福
+- lamb
+- 迷乱蜘蛛
+- 魅惑剧
+- for my stella
+- 七色彩光
+- bloody groovy
+- 我的憧憬是地狱的火焰
+- 神的随波逐流
+- 萝莉神
+- 足球足球我们爱足球
+- 那个天使LO ED
+- 太阳系disco
+- 极乐净土
+- 子然炉火
+- 梦想之门
+- 像神一样呐
+- 男人的勋章
+- 死神L バレンタイン・デー
+- 劣等上等
+- 暴风雨之夜
+- 野星星
+- girls
+- 新宝岛
+- 鸡你太美
+- THE BADDEST
+- 心跳定制
+- 萨姆沙
+- phony
+- RPG
+- 如今的我们
+- 同担拒否
+- 不为人知的鹅妈妈童谣
+- 遮阳伞汽车
+- 神秘芳香
+- 炉灶宝贝
+- 快乐合成器
+- 唱后唱
+- 女主角育成计划
+- 金木犀
+- 进化之夏
+- 2win甜蜜情书
+- gimme×gimme
+- 跃动青春
+- more jump more
+- 无声的誓言
+- 粉碎之审判
+- 南瓜噩梦
+- 爱恋之春
+- 梦幻祭体操
+- 流星花火
+- 人鱼狂欢节
+- 感恩的忠诚
+- 触达天空
+- 夏色笑容
+- 扭曲之心
+- 随心所欲mercy
+- SDF对决
+- 寂寞的人伤心的歌
+- 彩虹节拍
+- 大天使恶典
+- 绝对敌对超级讨厌
+- 幸灾乐祸先生
+- 一心一教
+- 这么可爱真是抱歉
+- 伪物恋情
+- 交织together
+- jimo-ai dash
+- beyond the way
+- Wiggle wiggle
+- 苦巧克力装饰
+- 心灵之蛋
+- 花叙时节
+- love me if you can
+- 雪色光芒
+- sugar hate
+- フラジール(易碎)
+- 泪鱼
+- サンシャイン
+- 好想快点变成那个样子！
+- 心跳光谱
+- 匿名M
+- tell me
+- happy halloween
+- Internet yamero
+- 神明啊神明
+- 红宝石之爱
+- 不可思议的wonders
+- luminous crown
+- mottai
+- Be a star
+- dancing heart la
+- pa-pa
+- sunny day song
+- 猛毒
+- 桃色钥匙
+- 第五物語op
+- ノンフィクション
+- 唱
+- 群青
+- Kirakirasensatio
+- n
+- start dash
+- 恋爱裁判
+- 寄明月
+- bing bang bang
+- born
+- 灯
+- 花间酒
+- 吼唱
+- 马儿跳传说
+- POP!STARS
+- 唱词
+- 我是大哥大
+- 或这绝美最后一滴
+- 春雷如光
+- 奇迹
+- 新宝岛
+- start dash
+- 狂热祝福
+- 彩虹节拍
+- 流星花火
+- 千本樱
+- 爱上你万岁
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+- 太阳系disco
+- 怪物
+- 极乐净土
+- 马儿跳传说
+- 蝴蝶
+- 影
+- 千本樱
+
+---
+
+## 漫卡社随舞第四弹随舞歌单
+
+- 闪耀双星空中战
+- jimo-ai dash
+- 鸟之诗
+- Overdose
+- 太阳系disco
+- 坎特雷拉
+- 绝非虚构
+- 告白日和
+- 星光序曲
+- 香格里拉大澡堂
+- ringing evil phone
+- Pretty Prism Paradise!!
+- 花叙时节
+- 响喜乱舞
+- deep eclipse
+- 偶像
+- 甜甜白雪之歌
+- mystic fragrance
+- 恋爱水族馆
+- 满怀爱意接近中
+- magnet
+- 人鱼狂欢节
+- 浴光独白
+- 与反派的吻戏
+- 心跳光之美女ed1
+- majestic magic
+- Dream Goes On
+- wonderful rush
+- 晚安大小姐
+- 一心一教
+- loveit
+- 辉夜城
+- 染上你的颜色
+- 兔子洞
+- 不为人知的鹅妈妈童谣
+- 恶之娘（演唱会版本）
+- ま〜るくMake up a-ha-ha!
+- 如今的我们
+- 那就是我们的奇迹
+- 勾指起誓
+- 奇人盛宴之夜
+- music start
+- 交织together
+- 约会
+- 羽衣麦田守望者
+- more jump more!
+- 绝对敌对超级讨厌
+- 雪色光晕
+- 恶之召唤
+- love me if you can
+- RPG
+- 伪物
+- Internet Overdose
+- 变身土豆
+- 0-week-old
+- chase
+- 掉下来
+- 或这绝美最后一滴
+- 忍者棒棒
+- 暴风雨之夜
+- calc
+- 晴日甜蜜心潮
+- 不灭圣爱
+- 星期五的流浪猫
+- 女主角育成计划
+- 阿修罗之血
+- 快乐合成器
+- mottai
+- 我们的星星
+- 同担拒否
+- 晒
+- 爱上你万岁!
+- 通往天国的礼物
+- 维他命summer
+- 心跳光谱
+- 威风堂堂
+- Literacy
+- 猛毒
+- 美妙天堂三角铁
+- 暴太郎op
+- 与你同行Bwith U
+- 强风大背头
+- 青海摇
+- INTERNET YAMERO
+- 不知醉（原版）
+- 新宝岛
+- 皆大欢喜pijsk
+- Addition
+- 融化心动厨房
+- hide and seek
+- 野星星
+- 偶像生活启动包
+- 僵尸
+- 杀掉她啦
+- king
+- 匿名m
+- 马儿跳传说
+- 快乐小火车
+- cinema电影
+- 闪烁光谱
+- 行星环
+- 喜欢！雪！真实的魔法！
+- 东京不夜城
+- 烦死了
+- 心情x箱
+- 常夏
+- 苦巧克力装饰
+- 小理体操
+- 相连的connect
+- darling dance
+- 千本樱
+- 子然炉火
+- StartDash
+- 神明的神明
+- gur
+- 独奏音乐
+- 魔法少女小圆op
+- BIBIDIBA（星灵闪耀）
+- 夏色笑容12jump
+- 奶油苏打和霓虹灯
+- mottai
+- ph
+- 萝莉神
+- HAPPY!LUCKY
+- 幸灾乐祸先生
+- 群青
+- ready steady
+- 抚摸抚摸
+- 美丽的夜莺
+- 大香蕉
+- 假死化
+- 魔法少女与巧克力
+- 大喜
+- 黎明前线
+- 恋爱裁判
+- 神的随波逐流
+- 恋爱裁判
+- 呐呐呐
+- 劣等上等
+- 迷乱蜘蛛
+- 桃源恋歌
+- 呐呐呐
+- 微笑光之美女ed1
+- CH4nge
+- 流星花火
+- Angelic Angel
+- 玻璃花园
+- 爱的免死方
+- 再见宣言
+- dancing start on me
+- 我们是否合二为一的光
+- 祝福的图书馆
+- 天下无敌流星部队
+- beyond the way
+- 偶像梦幻祭体操
+- 二次元广场舞
+- 像神一样呐
+- 扉をあげて
+- 寄明月
+- 妄想感伤代偿联盟
+- envy baby
+- 七色彩光
+- 恋爱循环
+- Bling-Bang-Bang-Born
+- 拉拉队员鼓励曲
+- 黑帮摇
+- 魅惑剧
+- gimme×gimme
+- 进化之夏
+- 这么可爱真是抱歉
+- 初恋のひと
+- 易碎
+- 劣等上等
+- 苦巧克力
+- 黑
+- 大天使恶典
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+- 独奏音乐
+- 启明星
+- 极乐净土
+
+---
+
+## 漫卡社第五弹随舞歌单
+
+- sunny day song
+- 感恩的城
+- 失去的城
+- Wonderful happiness
+- 爱之歌
+- Ready Steady
+- Emergency 5ll
+- hack
+- my舞
+- start dash
+- 呐呐呐
+- 马儿
+- 罗密欧
+- 二次元广场舞
+- 勾指起誓
+- 劣等上等
+- ぷーるわくup a-ha-ha
+- love me if you can
+- 美少女死神
+- shining line
+- 理科生坠入情网故尝试证明
+- 夏色笑容12jump
+- 猛毒
+- 魔法医生
+- 甜甜白雪之歌
+- lamb
+- loveit
+- 樱花飘飘
+- 高梨沙尔帖
+- 甜蜜大作战
+- 你们的回忆
+- 利己主义者
+- peace
+- Addition
+- 这就是我们的奇迹
+- 无爱世界
+- Blender
+- 异人disco
+- p.h
+- 世界第一公主殿下
+- INFINITY
+- girls
+- 来吧
+- angelic angel
+- 天使的幸运草
+- 东京不夜城
+- 写作悔恨的未来
+- beyond the way
+- 雪色光芒
+- midnight call
+- 小奥
+- 宇宙奇想
+- 乐意效劳
+- change
+- 审判之战
+- 马儿跳传说
+- 前进吧tomorrow
+- 我的玫瑰之星
+- 花间酒
+- 歌唱吧
+- 美丽的夜莺
+- ringing evil phone
+- 心怀创想
+- 香格里拉大澡堂
+- 融化心动厨房
+- 非虚构
+- 祝福的图书馆
+- 女主角育成计划
+- 皆大欢喜
+- 晨光
+- dancing start on me
+- 明天的狼拥抱
+- Bling Bang Bang Bron
+- 英雄传说
+- 永不终结的交响曲
+- 黎明天使
+- 恋游仙境
+- 牵牛花型心音
+- 马儿跳传说
+- 写下来的愿望
+- 吻杀罪
+- 沙之迷恋
+- 花喰草
+- 于是
+- 从天空见 囚牢此之约
+- 空想恋
+- 启明星
+- love friend style
+- kirakirasensation
+- 英雄传说
+- 永不终结的交响曲
+- 甜甜白雪之歌
+- 花叙时节
+- Bloody Groovy
+- 不为人知的鹅妈妈童谣
+- Ayumi Magical Showtime
+- 我的偶像宣言
+- 讨厌你
+- 孤勇者
+- 给你我的一切
+- 极道BDF
+- LUV 爱上你
+- love potion
+- 朽木千年
+- 好友革命
+- 青春歌谣
+- 跳进新世界
+- 非人哉
+- 蓝色小推
+- 迷途烦恼
+- 燃尽之后的背后
+- gimme×gimme
+- STAR--RAIN
+- 星之 流行曲
+- 回家的诱惑
+- 强风大背头
+- 爱的免死方
+- 我老婆
+- 超游则
+- neo
+- 超悦剧
+- 神秘芳香
+- 不知醉
+- 魔法少女与巧克力
+- 月光独语
+- 不可思议的wonders
+- overdose
+- 想成为你的恋人
+- 子然炉火
+- 黎明天使
+- 梦、绽
+- 召唤与
+- 漂流曲
+- phony
+- USA
+- wonderful rush
+- 欲与世三一
+- 爱上你万岁
+- 我们的live与你的life
+- go our way
+- 星期五的早安
+- Tiny stars
+- idolsmile
+- 感恩的城
+- MOTTO
+- more jumpmore
+- 我的世界已坠入爱河
+- 2win奇迹发生派对时间
+- Luka Luka Night Fever
+- 神明的神明
+- 行星环
+- 马儿的幻想
+- 幻影C
+- 千本樱
+- 太阳系disco
+- DEEP 深海
+- 融化心动厨房
+- 奈落的信仰
+- 喜欢
+- 这就是我们的奇迹
+- 恋的毒药
+- 地戏
+- 流星
+- 圈
+- 新圣域
+- 新宝岛
+- 黎明前线
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+- 黎明天使
+- 回家
+
+---
+
+## 漫卡社随舞第六弹歌单
+
+- ultra c
+- 再见宣言
+- Oh Love&Peace!
+- 星光序曲
+- morejumpmore
+- III
+- 心灵之蛋
+- killer
+- role playing game
+- 小理体操
+- realize
+- 野星星
+- 快乐合成器
+- 幸灾乐祸先生
+- 黎明前线
+- snow halation
+- ready steady
+- START!! True dreams
+- 彩虹节拍
+- 上克上
+- 跳动虚无
+- pink cat
+- 暗号
+- love me if you can
+- 新宝岛
+- 梦想之门
+- heartbeat
+- 降下诛罪
+- 偶像活动日女孩
+- 我最可爱的地方
+- 水蓝新世界
+- 停下这支歌
+- 欲于辉夜城起舞
+- 鬼之宴
+- 白日梦战士
+- 暴风雨之夜
+- てくてくん♪ Reversible-Ring
+- kirakira sensation
+- まーぶるMake up a-ha-ha
+- 天使的幸运草
+- Dancing stars on me
+- 遮阳伞汽车
+- loser
+- 海盗曲
+- colorful voice
+- 魔法少女小圆op
+- 马夫莫尔大化器
+- 夏色笑容12jump
+- mottai
+- 医学
+- 孩子气的战争
+- sunny day song
+- odemase榛果
+- 不眠之夜
+- 我们是合二为一的光芒
+- 满怀爱意接近中
+- かすみーとGIRL☆Yeah!
+- 深海少女
+- 萨姆沙
+- 威风堂堂
+- 随心所欲mercy
+- 像神一样呐
+- 我们的live与你的life
+- 维他命之夏
+- idol
+- 存活千年
+- 不知醉
+- drop pop candy
+- 极乐净土
+- girls
+- 回家的诱惑
+- journey
+- 拾光独白
+- Angelic Angel
+- motto
+- 雪色光芒
+- make it
+- START☆TRAIN
+- 偶像新锐队
+- 恋爱水族馆
+- tiny star
+- Twilight Pentagram
+- love it
+- 二次元广场舞
+- hack
+- 易碎
+- 正是因为咽无精
+- だから僕らは鳴らすんだ
+- 脑内革命女孩
+- 黎明天使
+- neo
+- 晚安大小姐
+- 起始是你的天空
+- 思念于夏日离去的你
+- 大声音钻
+- No brand girls
+- flos
+- 这就是我们的奇迹
+- 星期五的早安
+- HAPPY!LUCKY
+- chase
+- ID smile
+- 呐呐呐
+- 触摸天空
+- 试试悸动之铃
+- 人鱼狂欢节
+- 花叙时节
+- love friend style
+- 梦幻祭体操
+- heartbeat music
+- 猛毒
+- 吸血鬼
+- identity
+- 星灵闪耀/ビビデバ
+- 大江户Juria
+- 虎视眈眈
+- 雪人（镜面）
+- 旋转吧！雪月花
+- cinema电影
+- 抚摸抚摸
+- 前进吧Tomorrow
+- 唱
+- 想变得可爱
+- 桃色钥匙
+- lamb
+- shocking party
+- showtime ruler
+- 变身土豆
+- 黄昏之宴
+- 金木犀
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+- 爱恋之春
+- 赞颂丽
+- 真理的朋友
+- 欢腾之夏
+- 千本樱
+
+---
+
+## 喵喵喵超长随舞歌单
+
+- 不知醉
+- CH4nge
+- Internet overdose
+- Beyond the way
+- King
+- Overdose
+- 病名为爱
+- 彩虹节拍
+- Darling
+- 大喜
+- 怪物
+- 极乐净土
+- 聚光
+- 返歌滥漫
+- 满怀爱意接近中
+- 响喜乱舞
+- 遮阳伞汽车
+- 桃源恋歌
+- 心电感应
+- 欲于辉夜城起舞
+- 元气少女缘结神
+- guru
+- Happy lucky
+- Kks
+- Love friend style
+- nbg
+- realize
+- 鬼之宴
+- 假死化
+- 金木犀
+- 进化之夏
+- 倔强游戏
+- 黎明天使
+- 恋爱循环
+- 呐呐呐
+- 杀掉她啦
+- 兔子洞
+- 吸血鬼
+- 喜欢你哦
+- 心灵之蛋
+- 正是暴风雨中的爱恋
+- III
+- Internet yamero
+- Lamb
+- My舞
+- Showtime ruler
+- Twilight pentagram
+- Villain
+- Wonderful happiness
+- 暴太郎op
+- 变身土豆
+- 朝日
+- 帝国少女
+- 好友革命
+- 寂寞宝贝
+- 惊喜节拍
+- 利己主义者
+- 猛毒
+- 梦想之门
+- 魔法少女与巧克力
+- 偶像新锐队
+- 圣少年游戏
+- 同担拒否
+- 我最可爱的地方
+- 栖庭中的地方
+- Shanti
+- Makeit
+- 深海少女
+- more jump more
+- Make up a-ha-ha
+- reversible ring
+- 三角铁
+- 魅惑剧
+- Bling bang bang born
+- 天真烂漫机能
+- Bye-bye-bye
+- 残牙
+- 大爱
+- 恋爱裁判
+- 琪露诺的完美算数教室
+- flyer
+- ready steady
+- 星期天的流浪猫
+- 恋爱水族馆
+- 燃火
+- Snow halation
+- Start dash
+- 花舞少女
+- 流星群
+- darling dance
+- 像神一样呐
+- hack
+- phony
+- Bibibdeba
+- Mottai
+- 凯旋歌
+- 暴风雨之夜
+- 威风堂堂
+- 人狂热者
+- 皆大欢喜
+- Bang dream
+- 咽无精
+- 夏色
+- winderful rush
+- 抚摸抚摸
+- 妄想感伤代偿联盟
+- rpg
+- 劣等上等
+- 寄明月
+- 无呼吸义务
+- 快乐合成器
+- 规则
+- 唱
+- 美之味
+- 回家的诱惑
+- 梦幻祭体操
+- 乐意效劳
+- Go our way
+- Blender
+- 降下诛罪
+- 神的随波逐流
+- 花间酒
+- 晚安大小姐
+- 合女子节
+- 小理体操
+- Neo
+- 新宝岛
+- 电影
+- Ultra
+- 恋爱脑
+- 阿贝塔
+- 爱恋之春
+- ウレシロマンティック
+- 八重健身操
+- Mystic Light Quest
+- 幸灾乐祸先生
+- blessing
+- 春风
+- 羽衣麦田守望者
+- move on now
+- 猛毒
+- 晴天好心情
+- 我的偶像宣言
+- マジカルドクター
+- 香格里拉
+- 街
+- envy baby
+- 戴上paipai面具怎么样
+- 恋爱水族馆
+- 下克上
+- flos
+- bug
+- 天使的幸运草
+- 桃色钥匙
+- 美少女无罪
+- BIBIDBA
+- 秘密秘密
+- 猫猫
+- 恋爱循环
+- 恋游仙境
+- 飞跃极限
+- 苦巧克力装饰
+- 星灵闪耀
+- 繁星变鸣响彻之时
+- 流星群
+- 小星星 (动画版)
+- 启明星
+- 星期五的早安
+- 流星花火
+- 星光序曲
+- follow
+- 飞跃忧郁
+- dsom
+- love it
+- rpg
+- 太阳系disco
+- phony
+- idol
+- overdose
+- pop in 2
+- love it?
+- love potion
+- sunny day song
+- you are mine
+- 雪色光晕
+- pieces of the would
+- 燃料
+- 奇迹梦想旅行家
+- 餐具 (原pv)
+- 神秘芳香
+- 甜甜白雪之歌
+- 真命天女
+- 启示舞步
+- 流星花火
+- 医学
+- 苹果
+- 向日葵的幻想曲
+- Tokimeki runners
+
+---
+
+## 郑谷歌单
+
+- 此刻memories
+- 萨姆沙
+- 抚摸抚摸
+- 雪色光晕
+- 烈焰
+- 绝对敌对超级讨厌
+- 心灵之蛋
+- 人鱼狂欢节
+- 恋爱循环
+- 迷乱蜘蛛
+- love it
+- 拼凑的断音
+- 变身土豆
+- 勾指起誓
+- 强风大背头
+- Startdash
+- 太阳系disco
+- byeyond the way
+- 乐意效劳
+- 子然炉火
+- Twilight Pentagram
+- 人狂热者
+- odemase 榛果
+- 欲于辉夜城起舞
+- 太阳系disco
+- Blessing
+- 桃源恋歌
+- 创世纪
+- 妄想感伤代偿联盟
+- 偶像梦幻祭体操
+- no brand girls
+- 神明的神明
+- 唱
+- 千本樱
+- 像神一样呐
+- 呜呼
+- 寄明月
+- Nonfiction
+- 梦幻祭体操
+- more jump more
+- 这么可爱真是抱歉
+- 二次元广场舞
+- 深黯日蚀
+- 恋爱循环
+- 恋游仙境
+- 心跳光谱
+- 劣等上等
+- 赞神的安魂曲
+- 暴风雨之夜
+- 那就是我们的奇迹
+- 微笑调查队
+- 熔岩
+- bingbangbangbom
+- 无声的誓言
+- 极乐净土
+- 夏色笑容
+- 不可思议的wonders
+- 书记舞
+- 偶像生活新手包
+- Lovepotion
+- idol
+- 野星星
+- CR 野ZY
+- 极乐净土
+- 好友革命
+- U.S.A.
+- midnightcall
+- wonderful rush
+- 奇人盛宴之夜
+- 偶像活动社梦入学曲
+- 理科生坠入情网尝试证明
+- 我们的live与你的life
+- Bloody Groovy
+- 恋游仙境
+- Realize (pjsik)
+- 将军
+- 唱
+- King
+- tiny star
+- jimo ai dash
+- 魅惑剧
+- 新宝岛
+- 星期五的早安
+- make it
+- 不知醉
+- sunny day song
+- 新的时代到来开脑洞
+- 向你奔流
+- RPG
+- Willian (禾)
+- Hack
+- 医学
+- 少年游戏
+- overdose
+- 维舌胜利大马路
+- 交织together
+- 萨姆沙
+- 染上你的颜色
+- 与反派的吻戏
+- 或这绝美最后一滴
+- 七色阳光
+- 旋转雪月花
+- love friend style
+- 兔子洞
+- 恋爱水族馆
+- darling dance
+- 假死化
+- 想把你
+- 苦巧克力装饰
+- GimmeXGimme
+- 猪猴
+- 圆圆的地球
+- 满怀爱意接近中
+- 猛兽
+- 特雷森音头
+- 无之极
+- 大声钻石
+- 回家的诱惑
+- 马卡龙
+- KKS
+- 不眠之夜
+- 跃动青春
+- 太阳系disco
+- 暗号是B
+- 大喜
+- 进化之夏
+- 心予报
+- 降灵搞
+- 彩虹节拍
+- 响喜乱舞
+- 快乐合成器
+- 与你同行B With U
+- 马儿跳传说
+- 群青
+- 千本樱
+- 小理体操
+- 大喜
+- T6RIMI0
+- 触摸天空
+- 唱
+- 千本樱
+- 吸血鬼
+- 德川杯面禁止令
+- 夜空之梦
+- crazy beat
+- 晚安大小姐
+
+---
+
+## 郑谷歌单第二弹
+
+- 心跳光谱
+- 花叙时节
+- 萝莉神的安魂曲
+- 神明的神明
+- 湍流风暴
+- 欲于辉夜城起舞
+- 乐意效劳
+- 恋游仙境
+- 虹野梦入学
+- 威风堂堂
+- 璀璨笑容
+- 人狂热者
+- 恋爱水族馆
+- 圆圆的地球
+- make up a-ha-ha!
+- snow halation1
+- 千本樱
+- USA
+- 向你奔跑
+- 新宝岛
+- 如今的我们
+- 或这绝美最后一滴
+- 布朗尼
+- 人鱼狂欢节
+- 与反派的吻戏
+- 幸灾乐祸先生
+- 疯狂轮盘
+- 大声钻石
+- midnightcall
+- 变身土豆
+- 美妙幸福
+- 马卡龙
+- startdash
+- 绝对敌对超级讨厌
+- 美丽的夜莺
+- Princess power
+- nobrandgirls
+- 兔子洞
+- 唯真天启
+- 恋爱循环
+- love it
+- 七日棱镜魔法
+- 夏色笑容
+- 拼凑的断音
+- 燃魂之拳
+- realize
+- 大江户
+- 迷乱蜘蛛
+- MY舞
+- overdose
+- 起始的幻想曲
+- 强风大背头
+- CR脉ZY
+- 骑士信念
+- 野星星
+- 勾指起誓
+- 审判之战
+- かすみ〜とGIRL☆Yeah!
+- villain (禾)
+- 星光序曲
+- 甜蜜2wink情书
+- blessing
+- 偶像生活新手包
+- 无声的誓言
+- 子然炉火
+- sunny day song
+- 甜蜜·辛辣方程式
+- hack
+- 神的随波逐流
+- 奇人盛宴之夜
+- 女仆至上主义
+- dancing stars on me
+- 星河奇思
+- HAPPY!LUCKY
+- 一骑当千
+- 黎明天使
+- Gimme×Gimme
+- angelic angel
+- Twilight Pentagram
+- 萨姆沙
+- Bloody Groovy
+- 永不终结的交响曲
+- 心灵之蛋
+- tiny star
+- RPG
+- 新圣域
+- 美之味
+- jimo ai dash
+- 礼赞歌
+- original star
+- blingbangbangborn
+- 我们的live与你们的life
+- 指尖的阿里阿德涅
+- 像神一样呐
+- realize(pjsk)
+- 出发星之国
+- 偶像梦幻祭体操
+- 呐呐呐
+- kks
+- 怪物
+- 禁忌之雨
+- idol
+- 星期五的早安
+- 我们的星星
+- love friend style
+- 寄明月
+- 那就是我们的奇迹
+- 此刻无名
+- 猛毒
+- 不知醉
+- 天使恶典
+- 好友革命
+- 维他命summer
+- shanti
+- 只属于你的繁星
+- 妄想感伤代偿联盟
+- 要喜欢上老师了
+- 创世纪
+- 劣等上等
+- 写作悔恨的未来
+- 暴风雨之夜
+- Dream believers
+- 旋转雪月花
+- 光辉皇冠
+- 极乐净土
+- beyond the way
+- 鬼魅宴请馆
+- wonderful rush (1: 33)
+- darling dance
+- 神秘芳香
+- 启明星 菲梦少女
+- 满怀爱意接近中
+- 方舟之羽
+- III
+- 东京泰迪熊
+- 迷失震荡
+- 0-weed-old
+- Jump into the new world
+- 医学
+- more jump more
+- 二次元广场舞
+- 流星花火
+- 抚摸抚摸
+- king
+- 凯旋歌
+- gee
+- 苦巧克力装饰
+- 缭乱胜利大马路
+- 魅惑剧
+- lovepotion
+- 微笑调查队
+- make it
+- 恶灵契约
+- ch4nge
+- 花间酒
+- 电子机械回廊 (镜面练习室)
+- oidemase榛果
+- 偶像活动入学曲
+- Never-ending Stage!!!!
+- 女主角育成计划
+- 电影
+- 此刻memories
+- 闪烁光谱
+- 太阳系disco
+- 咽无精
+- 心情x箱*
+- 人生是最好的消遣方式
+- 将军
+- 圣少年游戏
+- 可变三连mix
+- 桃源恋歌
+- 深黯日蚀
+- 命嫌
+- nonfiction
+- 理科生坠入情网故尝试证明
+- 炽爱之名
+- 喜欢你哦
+- 香格里拉大澡堂
+- 宇宙
+- 爱恋之春
+- 直到那一天
+- 这么可爱真是抱歉
+- 降下诛罚
+- crazy beat
+- 七色彩光
+- 大香蕉
+- 苹果香
+- 回家的诱惑
+- 晚安大小姐
+
+---
+
+**大上海萌资讯，随舞自由，快乐至上。** 💚
+
+*本页最后更新于 2026年7月1日 · 歌单由各活动方及群友整理，仅供参考*

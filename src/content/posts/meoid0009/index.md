@@ -7,7 +7,7 @@ tags: [闭店, 秋子谷子店]
 category: 店铺公告
 licenseName: "CC BY-NC-ND"
 author: 秋子谷子店
-sourceLink: "https://www.dshcacg.fun/meoid0009/"
+sourceLink: "https://dshcacg.roka.ink/meoid0009/"
 draft: false
 date: 2026-05-09
 permalink: "meoid0009"

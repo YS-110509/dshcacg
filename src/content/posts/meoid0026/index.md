@@ -7,7 +7,7 @@ tags: [开放麦, 考惧人生, 平话, 灌溉生活, 郑州]
 category: 官方公告
 licenseName: "CC BY-NC-ND"
 author: 郑州大上海城购物中心
-sourceLink: "https://www.dshcacg.fun/meoid0026/"
+sourceLink: "https://dshcacg.roka.ink/meoid0026/"
 draft: false
 date: 2026-06-23
 pubDate: 2026-06-23
