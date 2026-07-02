@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		projects: false, // 项目页面开关
 		skills: false, // 技能页面开关
 		timeline: false, // 时间线页面开关
-		albums: false, // 相册页面开关
+		albums: true, // 相册页面开关
 		devices: false, // 设备页面开关
 	},
 
@@ -224,8 +224,8 @@ export const siteConfig: SiteConfig = {
 	showLastModified: true, // 控制"上次编辑"卡片显示的开关
 	pageProgressBar: {
 		enable: true, // 启用页面顶部进度条
-		height: 3, // 进度条高度 3px
-		duration: 6000, // 动画时长 6s
+		height: 6, // 进度条高度 ?px
+		duration: 4000, // 动画时长 ?s
 	},
 
 	thirdPartyAnalytics: {
@@ -264,6 +264,18 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa7-brands:qq",
 				},
+				{
+					name: "抖音",
+					url: "https://v.douyin.com/yla5P1lET-0/",
+					external: true,
+					icon: "fa7-brands:tiktok",
+				},
+				{
+					name: "快手",
+					url: "https://v.kuaishou.com/JdLIkE5w ",
+					external: true,
+					icon: "simple-icons:kuaishou",
+				},
 			],
 		},
 		{
@@ -275,6 +287,11 @@ export const navBarConfig: NavBarConfig = {
 					name: "About",
 					url: "/about/",
 					icon: "material-symbols:person",
+				},
+				{
+					name: "Gallery",
+					url: "/albums/",
+					icon: "material-symbols:photo-library",
 				},
 				{
 					name: "Friends",
@@ -299,6 +316,16 @@ export const profileConfig: ProfileConfig = {
 			name: "加入我们",
 			url: "https://qm.qq.com/q/YT5LZBUfS0",
 			icon: "fa7-brands:qq",
+		},
+		{
+			name: "抖音",
+			url: "https://v.douyin.com/yla5P1lET-0/",
+			icon: "fa7-brands:tiktok",
+		},
+		{
+			name: "快手",
+			url: "https://v.kuaishou.com/JdLIkE5w ",
+			icon: "simple-icons:kuaishou",
 		},
 	],
 };
@@ -373,9 +400,8 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "当前版本v1.2.1", // 公告标题，填空使用i18n字符串Key.announcement
-	content:
-		"更新内容：1.将近期活动与漫展移至【关于我们】；2.大上海萌资讯App(PWA)已开放安装，可前往【关于我们】中查看。", // 公告内容
+	title: "当前版本v1.2.2Beta", // 公告标题，填空使用i18n字符串Key.announcement
+	content: "更新内容：1.加载umami统计。", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
