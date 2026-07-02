@@ -11,7 +11,7 @@ export const zh_CN: Translation = {
 	// 导航栏标题
 	[Key.navLinks]: "链接",
 	[Key.navMy]: "我的",
-	[Key.navAbout]: "关于",
+	[Key.navAbout]: "更多",
 	[Key.navOthers]: "其他",
 
 	[Key.tags]: "话题",
@@ -27,7 +27,7 @@ export const zh_CN: Translation = {
 
 	[Key.comments]: "评论",
 	[Key.friends]: "友链",
-	[Key.friendsSubtitle]: "发现更多优质网站",
+	[Key.friendsSubtitle]: "发现更多伙伴",
 	[Key.friendsSearchPlaceholder]: "搜索友链名称或描述...",
 	[Key.friendsFilterAll]: "全部",
 	[Key.friendsNoResults]: "未找到匹配的友链",
@@ -122,7 +122,7 @@ export const zh_CN: Translation = {
 
 	// 相册页面
 	[Key.albums]: "相册",
-	[Key.albumsSubtitle]: "记录生活中的美好瞬间",
+	[Key.albumsSubtitle]: "通过图片了解更多~",
 	[Key.albumsEmpty]: "暂无内容",
 	[Key.albumsEmptyDesc]: "还没有创建任何相册，快去添加一些美好的回忆吧！",
 	[Key.albumsBackToList]: "返回相册",
