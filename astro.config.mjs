@@ -46,7 +46,7 @@ export default defineConfig({
 			theme: false,
 			animationClass: "transition-swup-",
 			containers: ["main"],
-			smoothScrolling: ture, // 禁用平滑滚动以提升性能，避免与锚点导航冲突
+			smoothScrolling: false, // 禁用平滑滚动以提升性能，避免与锚点导航冲突
 			cache: true,
 			preload: true, // 禁用预加载以提升性能
 			accessibility: true,
