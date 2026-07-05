@@ -1,4 +1,4 @@
-﻿import type {
+import type {
 	AnnouncementConfig,
 	CommentConfig,
 	ExpressiveCodeConfig,
@@ -319,7 +319,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "抖音",
-			url: "https://v.douyin.com/yla5P1lET-0/",
+			url: "https://v.douyin.com/cJv3KLNqeq4",
 			icon: "fa7-brands:tiktok",
 		},
 		{
