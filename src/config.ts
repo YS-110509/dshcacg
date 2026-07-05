@@ -1,4 +1,4 @@
-import type {
+﻿import type {
 	AnnouncementConfig,
 	CommentConfig,
 	ExpressiveCodeConfig,
@@ -266,7 +266,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "抖音",
-					url: "https://v.douyin.com/yla5P1lET-0/",
+					url: "https://v.douyin.com/cJv3KLNqeq4",
 					external: true,
 					icon: "fa7-brands:tiktok",
 				},
@@ -400,8 +400,9 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "当前版本v2.3.10", // 公告标题，填空使用i18n字符串Key.announcement
-	content:"2026/07/04更新：1.重新设计网站Logo。2.修复若干问题，提升体验质量。3.新增商铺数据来源。", // 公告内容
+	title: "当前版本v2.3.11", // 公告标题，填空使用i18n字符串Key.announcement
+	content:
+		"2026/07/04更新：1.重新设计网站Logo。2.修复若干问题，提升体验质量。3.新增商铺数据来源。", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
