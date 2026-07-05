@@ -62,9 +62,9 @@
 
 [加入我们](https://qm.qq.com/q/5LF5yhoGUU "申请加入大上海城二次元交流群")
 
-[大上海萌资讯主站](https://www.dshcacg.fun "前往大上海萌资讯网站主站")
+[大上海萌资讯中国大陆站](https://dshcacg.roka.ink "前往大上海萌资讯网站主站")
 
-[大上海萌资讯备份站](https://dshcacg.roka.ink "前往大上海萌资讯网站备份站")
+[大上海萌资讯港澳台及海外站](https://dshcacg.vercel.app "前往大上海萌资讯网站备份站")
 
 ---
 
